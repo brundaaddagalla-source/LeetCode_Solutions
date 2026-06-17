@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation"
+  },
+  "updatedAt": "2026-06-17T19:09:32.161Z",
+  "problems": [
+    {
+      "frontendId": "68",
+      "title": "Text Justification",
+      "slug": "text-justification",
+      "problemName": "0068-text-justification",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/text-justification/",
+      "folderPath": "0068-text-justification/",
+      "readmePath": "0068-text-justification/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0068-text-justification.py",
+          "path": "0068-text-justification/0068-text-justification.py",
+          "sha": "bd40a0b72f1654ac39eb4b2a306c7abeb3a0b3d4",
+          "lastSyncedAt": "2026-06-17T19:09:32.161Z"
+        }
+      ]
+    }
+  ]
+}
