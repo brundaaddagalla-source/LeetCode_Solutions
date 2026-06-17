@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "two-pointers",
+    "name": "Two Pointers"
+  },
+  "updatedAt": "2026-06-17T19:10:13.218Z",
+  "problems": [
+    {
+      "frontendId": "165",
+      "title": "Compare Version Numbers",
+      "slug": "compare-version-numbers",
+      "problemName": "0165-compare-version-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/compare-version-numbers/",
+      "folderPath": "0165-compare-version-numbers/",
+      "readmePath": "0165-compare-version-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0165-compare-version-numbers.py",
+          "path": "0165-compare-version-numbers/0165-compare-version-numbers.py",
+          "sha": "9952e2b8d97f5974b08a13207de10cf481fd39bb",
+          "lastSyncedAt": "2026-06-17T19:10:13.218Z"
+        }
+      ]
+    }
+  ]
+}
