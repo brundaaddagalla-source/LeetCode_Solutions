@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 29 | 1 | 26 | 2 |
+| 30 | 1 | 27 | 2 |
 
 ## Activity
 
@@ -18,20 +18,20 @@ Contains topicwise list of solved problems.
 | 2026-06-15 | 7 |
 | 2026-06-16 | 6 |
 | 2026-06-17 | 8 |
-| 2026-06-18 | 8 |
+| 2026-06-18 | 9 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 16 | 55% |
-| Array | 13 | 45% |
-| Hash Table | 8 | 28% |
-| Two Pointers | 8 | 28% |
-| Greedy | 6 | 21% |
-| Sorting | 6 | 21% |
+| String | 16 | 53% |
+| Array | 13 | 43% |
+| Hash Table | 8 | 27% |
+| Two Pointers | 8 | 27% |
+| Greedy | 6 | 20% |
+| Sorting | 6 | 20% |
 | Sliding Window | 5 | 17% |
-| Simulation | 4 | 14% |
+| Simulation | 4 | 13% |
 | Dynamic Programming | 3 | 10% |
 | Heap (Priority Queue) | 3 | 10% |
 
@@ -50,7 +50,7 @@ Contains topicwise list of solved problems.
 | [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 4 |
 | [Heap](Topics/heap/) | 0 |
-| [Linked List](Topics/linked-list/) | 0 |
+| [Linked List](Topics/linked-list/) | 1 |
 | [Math](Topics/math/) | 1 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
