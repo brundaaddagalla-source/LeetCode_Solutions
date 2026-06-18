@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-06-18T11:12:33.195Z",
+  "updatedAt": "2026-06-18T11:12:49.379Z",
   "problems": [
     {
       "frontendId": "424",
@@ -22,7 +22,7 @@
           "filename": "0424-longest-repeating-character-replacement.py",
           "path": "0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.py",
           "sha": "027351797cb5e6802a702bc514b2eaadc7faffcc",
-          "lastSyncedAt": "2026-06-18T11:12:33.195Z"
+          "lastSyncedAt": "2026-06-18T11:12:49.379Z"
         }
       ]
     }
