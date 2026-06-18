@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-06-18T08:00:32.124Z",
+  "updatedAt": "2026-06-18T18:04:28.605Z",
   "problems": [
     {
       "frontendId": "678",
@@ -23,6 +23,26 @@
           "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.py",
           "sha": "f3c49238eaca09cd31b1bdbc4a6268e20ae82a83",
           "lastSyncedAt": "2026-06-17T19:28:06.902Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "763",
+      "title": "Partition Labels",
+      "slug": "partition-labels",
+      "problemName": "0763-partition-labels",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-labels/",
+      "folderPath": "0763-partition-labels/",
+      "readmePath": "0763-partition-labels/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0763-partition-labels.py",
+          "path": "0763-partition-labels/0763-partition-labels.py",
+          "sha": "d14a339c13859e2674cbb8f6b459e87fc00b11a5",
+          "lastSyncedAt": "2026-06-18T18:04:28.605Z"
         }
       ]
     },
