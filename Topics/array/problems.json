@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-06-17T19:10:07.238Z",
+  "updatedAt": "2026-06-18T17:30:26.604Z",
   "problems": [
     {
       "frontendId": "68",
@@ -23,6 +23,26 @@
           "path": "0068-text-justification/0068-text-justification.py",
           "sha": "bd40a0b72f1654ac39eb4b2a306c7abeb3a0b3d4",
           "lastSyncedAt": "2026-06-17T19:10:07.238Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "713",
+      "title": "Subarray Product Less Than K",
+      "slug": "subarray-product-less-than-k",
+      "problemName": "0713-subarray-product-less-than-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-product-less-than-k/",
+      "folderPath": "0713-subarray-product-less-than-k/",
+      "readmePath": "0713-subarray-product-less-than-k/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0713-subarray-product-less-than-k.py",
+          "path": "0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.py",
+          "sha": "14837cd80fab4b87eb51daf30921ba4271457543",
+          "lastSyncedAt": "2026-06-18T17:30:26.604Z"
         }
       ]
     }
