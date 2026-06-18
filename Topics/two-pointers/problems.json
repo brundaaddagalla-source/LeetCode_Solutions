@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-06-18T12:22:21.927Z",
+  "updatedAt": "2026-06-18T12:25:13.155Z",
   "problems": [
     {
       "frontendId": "165",
@@ -42,7 +42,7 @@
           "filename": "0567-permutation-in-string.py",
           "path": "0567-permutation-in-string/0567-permutation-in-string.py",
           "sha": "4567c75030f3fd75f7d6467fb61315b82ea10dbe",
-          "lastSyncedAt": "2026-06-18T12:22:21.927Z"
+          "lastSyncedAt": "2026-06-18T12:25:13.155Z"
         }
       ]
     }
