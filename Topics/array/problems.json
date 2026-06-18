@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-06-18T17:33:47.612Z",
+  "updatedAt": "2026-06-18T18:10:41.619Z",
   "problems": [
     {
       "frontendId": "68",
@@ -23,6 +23,26 @@
           "path": "0068-text-justification/0068-text-justification.py",
           "sha": "bd40a0b72f1654ac39eb4b2a306c7abeb3a0b3d4",
           "lastSyncedAt": "2026-06-17T19:10:07.238Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "209",
+      "title": "Minimum Size Subarray Sum",
+      "slug": "minimum-size-subarray-sum",
+      "problemName": "0209-minimum-size-subarray-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+      "folderPath": "0209-minimum-size-subarray-sum/",
+      "readmePath": "0209-minimum-size-subarray-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0209-minimum-size-subarray-sum.py",
+          "path": "0209-minimum-size-subarray-sum/0209-minimum-size-subarray-sum.py",
+          "sha": "8bffa8603f779dcf072b40d7dd2c2aae7fad33c5",
+          "lastSyncedAt": "2026-06-18T18:10:41.619Z"
         }
       ]
     },
