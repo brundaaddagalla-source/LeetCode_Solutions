@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 27 | 1 | 24 | 2 |
+| 28 | 1 | 25 | 2 |
 
 ## Activity
 
@@ -18,20 +18,20 @@ Contains topicwise list of solved problems.
 | 2026-06-15 | 7 |
 | 2026-06-16 | 6 |
 | 2026-06-17 | 8 |
-| 2026-06-18 | 6 |
+| 2026-06-18 | 7 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 15 | 56% |
-| Array | 12 | 44% |
-| Hash Table | 7 | 26% |
-| Two Pointers | 7 | 26% |
-| Sorting | 6 | 22% |
-| Greedy | 5 | 19% |
-| Simulation | 4 | 15% |
-| Sliding Window | 4 | 15% |
+| String | 16 | 57% |
+| Array | 12 | 43% |
+| Hash Table | 8 | 29% |
+| Two Pointers | 8 | 29% |
+| Greedy | 6 | 21% |
+| Sorting | 6 | 21% |
+| Simulation | 4 | 14% |
+| Sliding Window | 4 | 14% |
 | Dynamic Programming | 3 | 11% |
 | Heap (Priority Queue) | 3 | 11% |
 
@@ -47,8 +47,8 @@ Contains topicwise list of solved problems.
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 3 |
+| [Greedy](Topics/greedy/) | 3 |
+| [Hash Table](Topics/hash-table/) | 4 |
 | [Heap](Topics/heap/) | 0 |
 | [Linked List](Topics/linked-list/) | 0 |
 | [Math](Topics/math/) | 1 |
@@ -58,6 +58,6 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 4 |
 | [Sorting](Topics/sorting/) | 0 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 6 |
-| [Two Pointers](Topics/two-pointers/) | 2 |
+| [String](Topics/string/) | 7 |
+| [Two Pointers](Topics/two-pointers/) | 3 |
 <!---LeetHub Summary End-->
