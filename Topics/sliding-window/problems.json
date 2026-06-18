@@ -4,7 +4,7 @@
     "slug": "sliding-window",
     "name": "Sliding Window"
   },
-  "updatedAt": "2026-06-18T17:30:26.604Z",
+  "updatedAt": "2026-06-18T17:33:47.612Z",
   "problems": [
     {
       "frontendId": "424",
@@ -82,7 +82,7 @@
           "filename": "0713-subarray-product-less-than-k.py",
           "path": "0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.py",
           "sha": "14837cd80fab4b87eb51daf30921ba4271457543",
-          "lastSyncedAt": "2026-06-18T17:30:26.604Z"
+          "lastSyncedAt": "2026-06-18T17:33:47.612Z"
         }
       ]
     }
