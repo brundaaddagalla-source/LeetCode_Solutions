@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-06-18T12:54:16.072Z",
+  "updatedAt": "2026-06-18T18:04:28.605Z",
   "problems": [
     {
       "frontendId": "424",
@@ -63,6 +63,26 @@
           "path": "0567-permutation-in-string/0567-permutation-in-string.py",
           "sha": "4567c75030f3fd75f7d6467fb61315b82ea10dbe",
           "lastSyncedAt": "2026-06-18T12:25:13.155Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "763",
+      "title": "Partition Labels",
+      "slug": "partition-labels",
+      "problemName": "0763-partition-labels",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/partition-labels/",
+      "folderPath": "0763-partition-labels/",
+      "readmePath": "0763-partition-labels/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0763-partition-labels.py",
+          "path": "0763-partition-labels/0763-partition-labels.py",
+          "sha": "d14a339c13859e2674cbb8f6b459e87fc00b11a5",
+          "lastSyncedAt": "2026-06-18T18:04:28.605Z"
         }
       ]
     }
