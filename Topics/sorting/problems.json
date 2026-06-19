@@ -4,6 +4,27 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-06-17T19:09:00.697Z",
-  "problems": []
+  "updatedAt": "2026-06-19T18:42:52.101Z",
+  "problems": [
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "0148-sort-list/",
+      "readmePath": "0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0148-sort-list.py",
+          "path": "0148-sort-list/0148-sort-list.py",
+          "sha": "5b2defaad2ae2c82c76016a143c0a46856a4e084",
+          "lastSyncedAt": "2026-06-19T18:42:52.101Z"
+        }
+      ]
+    }
+  ]
 }
