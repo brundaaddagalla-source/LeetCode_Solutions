@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 1 | 28 | 2 |
+| 33 | 2 | 28 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 4 days | 4 |
+| 5 days | 5 days | 5 |
 
 | Date | Problems |
 | --- | ---: |
@@ -19,41 +19,45 @@ Contains topicwise list of solved problems.
 | 2026-06-16 | 6 |
 | 2026-06-17 | 8 |
 | 2026-06-18 | 10 |
+| 2026-06-19 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 16 | 52% |
-| Array | 13 | 42% |
-| Hash Table | 9 | 29% |
-| Two Pointers | 9 | 29% |
-| Greedy | 6 | 19% |
-| Sorting | 6 | 19% |
-| Sliding Window | 5 | 16% |
-| Simulation | 4 | 13% |
-| Dynamic Programming | 3 | 10% |
-| Heap (Priority Queue) | 3 | 10% |
+| String | 16 | 48% |
+| Array | 14 | 42% |
+| Hash Table | 9 | 27% |
+| Two Pointers | 9 | 27% |
+| Greedy | 6 | 18% |
+| Sorting | 6 | 18% |
+| Sliding Window | 5 | 15% |
+| Heap (Priority Queue) | 4 | 12% |
+| Linked List | 4 | 12% |
+| Simulation | 4 | 12% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 3 |
+| [Array](Topics/array/) | 4 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
 | [Data Structures](Topics/data-structures/) | 0 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Heap](Topics/heap/) | 0 |
-| [Linked List](Topics/linked-list/) | 2 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Linked List](Topics/linked-list/) | 3 |
 | [Math](Topics/math/) | 1 |
 | [Matrix](Topics/matrix/) | 0 |
-| [Prefix Sum](Topics/prefix-sum/) | 2 |
+| [Merge Sort](Topics/merge-sort/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 0 |
