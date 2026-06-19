@@ -4,8 +4,28 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-06-18T19:55:14.417Z",
+  "updatedAt": "2026-06-19T12:49:39.803Z",
   "problems": [
+    {
+      "frontendId": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "problemName": "0061-rotate-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+      "folderPath": "0061-rotate-list/",
+      "readmePath": "0061-rotate-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0061-rotate-list.py",
+          "path": "0061-rotate-list/0061-rotate-list.py",
+          "sha": "804d13b5af8fbf4c237a7ab9f8c89a66f69342d8",
+          "lastSyncedAt": "2026-06-19T12:49:39.803Z"
+        }
+      ]
+    },
     {
       "frontendId": "142",
       "title": "Linked List Cycle II",
