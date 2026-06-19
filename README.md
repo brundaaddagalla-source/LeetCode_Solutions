@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 33 | 2 | 28 | 3 |
+| 34 | 2 | 29 | 3 |
 
 ## Activity
 
@@ -19,21 +19,21 @@ Contains topicwise list of solved problems.
 | 2026-06-16 | 6 |
 | 2026-06-17 | 8 |
 | 2026-06-18 | 10 |
-| 2026-06-19 | 2 |
+| 2026-06-19 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 16 | 48% |
-| Array | 14 | 42% |
-| Hash Table | 9 | 27% |
-| Two Pointers | 9 | 27% |
+| String | 16 | 47% |
+| Array | 14 | 41% |
+| Hash Table | 9 | 26% |
+| Two Pointers | 9 | 26% |
 | Greedy | 6 | 18% |
 | Sorting | 6 | 18% |
+| Linked List | 5 | 15% |
 | Sliding Window | 5 | 15% |
 | Heap (Priority Queue) | 4 | 12% |
-| Linked List | 4 | 12% |
 | Simulation | 4 | 12% |
 
 ## Topics
@@ -53,15 +53,15 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 3 |
-| [Math](Topics/math/) | 1 |
+| [Linked List](Topics/linked-list/) | 4 |
+| [Math](Topics/math/) | 2 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 0 |
-| [Stack](Topics/stack/) | 2 |
+| [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 7 |
 | [Two Pointers](Topics/two-pointers/) | 4 |
 <!---LeetHub Summary End-->
