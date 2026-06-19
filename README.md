@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 37 | 2 | 31 | 4 |
+| 38 | 2 | 32 | 4 |
 
 ## Activity
 
@@ -19,22 +19,22 @@ Contains topicwise list of solved problems.
 | 2026-06-16 | 6 |
 | 2026-06-17 | 8 |
 | 2026-06-18 | 10 |
-| 2026-06-19 | 6 |
+| 2026-06-19 | 7 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 16 | 43% |
-| Array | 14 | 38% |
-| Hash Table | 10 | 27% |
-| Two Pointers | 10 | 27% |
-| Linked List | 8 | 22% |
+| String | 16 | 42% |
+| Array | 14 | 37% |
+| Two Pointers | 11 | 29% |
+| Hash Table | 10 | 26% |
+| Linked List | 9 | 24% |
+| Sorting | 7 | 18% |
 | Greedy | 6 | 16% |
-| Sorting | 6 | 16% |
-| Sliding Window | 5 | 14% |
+| Sliding Window | 5 | 13% |
+| Divide and Conquer | 4 | 11% |
 | Heap (Priority Queue) | 4 | 11% |
-| Simulation | 4 | 11% |
 
 ## Topics
 
@@ -46,23 +46,23 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 6 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 7 |
+| [Linked List](Topics/linked-list/) | 8 |
 | [Math](Topics/math/) | 2 |
 | [Matrix](Topics/matrix/) | 0 |
-| [Merge Sort](Topics/merge-sort/) | 1 |
+| [Merge Sort](Topics/merge-sort/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
-| [Sorting](Topics/sorting/) | 0 |
+| [Sorting](Topics/sorting/) | 1 |
 | [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 7 |
-| [Two Pointers](Topics/two-pointers/) | 5 |
+| [Two Pointers](Topics/two-pointers/) | 6 |
 <!---LeetHub Summary End-->
