@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-06-18T19:55:14.417Z",
+  "updatedAt": "2026-06-19T08:10:02.058Z",
   "problems": [
+    {
+      "frontendId": "138",
+      "title": "Copy List with Random Pointer",
+      "slug": "copy-list-with-random-pointer",
+      "problemName": "0138-copy-list-with-random-pointer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+      "folderPath": "0138-copy-list-with-random-pointer/",
+      "readmePath": "0138-copy-list-with-random-pointer/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0138-copy-list-with-random-pointer.py",
+          "path": "0138-copy-list-with-random-pointer/0138-copy-list-with-random-pointer.py",
+          "sha": "84f82acc29bbdc08ffcae89367d47c33a1ac3c9e",
+          "lastSyncedAt": "2026-06-19T08:10:02.058Z"
+        }
+      ]
+    },
     {
       "frontendId": "142",
       "title": "Linked List Cycle II",
