@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-06-19T06:53:55.514Z",
+  "updatedAt": "2026-06-19T07:16:19.555Z",
   "problems": [
     {
       "frontendId": "23",
@@ -63,6 +63,26 @@
           "path": "0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.py",
           "sha": "f6c141a73135298ec4497f07fd907f63cde538f0",
           "lastSyncedAt": "2026-06-18T19:55:14.417Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "445",
+      "title": "Add Two Numbers II",
+      "slug": "add-two-numbers-ii",
+      "problemName": "0445-add-two-numbers-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers-ii/",
+      "folderPath": "0445-add-two-numbers-ii/",
+      "readmePath": "0445-add-two-numbers-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0445-add-two-numbers-ii.py",
+          "path": "0445-add-two-numbers-ii/0445-add-two-numbers-ii.py",
+          "sha": "79f7c9c8885d48139e0efe25d1368d4698f7ea83",
+          "lastSyncedAt": "2026-06-19T07:16:19.555Z"
         }
       ]
     }
