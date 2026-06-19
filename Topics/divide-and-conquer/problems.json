@@ -4,7 +4,7 @@
     "slug": "divide-and-conquer",
     "name": "Divide and Conquer"
   },
-  "updatedAt": "2026-06-19T06:53:55.514Z",
+  "updatedAt": "2026-06-19T18:42:52.101Z",
   "problems": [
     {
       "frontendId": "23",
@@ -23,6 +23,26 @@
           "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.py",
           "sha": "7242b9f68bf51d9beac8b271aa15d92b295af542",
           "lastSyncedAt": "2026-06-19T06:53:55.514Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "148",
+      "title": "Sort List",
+      "slug": "sort-list",
+      "problemName": "0148-sort-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+      "folderPath": "0148-sort-list/",
+      "readmePath": "0148-sort-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0148-sort-list.py",
+          "path": "0148-sort-list/0148-sort-list.py",
+          "sha": "5b2defaad2ae2c82c76016a143c0a46856a4e084",
+          "lastSyncedAt": "2026-06-19T18:42:52.101Z"
         }
       ]
     }
