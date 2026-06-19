@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-06-18T06:41:49.852Z",
+  "updatedAt": "2026-06-19T07:16:19.555Z",
   "problems": [
+    {
+      "frontendId": "445",
+      "title": "Add Two Numbers II",
+      "slug": "add-two-numbers-ii",
+      "problemName": "0445-add-two-numbers-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers-ii/",
+      "folderPath": "0445-add-two-numbers-ii/",
+      "readmePath": "0445-add-two-numbers-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0445-add-two-numbers-ii.py",
+          "path": "0445-add-two-numbers-ii/0445-add-two-numbers-ii.py",
+          "sha": "79f7c9c8885d48139e0efe25d1368d4698f7ea83",
+          "lastSyncedAt": "2026-06-19T07:16:19.555Z"
+        }
+      ]
+    },
     {
       "frontendId": "1344",
       "title": "Angle Between Hands of a Clock",
