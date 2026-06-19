@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-06-19T08:11:17.964Z",
+  "updatedAt": "2026-06-19T12:49:39.803Z",
   "problems": [
     {
       "frontendId": "23",
@@ -23,6 +23,26 @@
           "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.py",
           "sha": "7242b9f68bf51d9beac8b271aa15d92b295af542",
           "lastSyncedAt": "2026-06-19T06:53:55.514Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "61",
+      "title": "Rotate List",
+      "slug": "rotate-list",
+      "problemName": "0061-rotate-list",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-list/",
+      "folderPath": "0061-rotate-list/",
+      "readmePath": "0061-rotate-list/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0061-rotate-list.py",
+          "path": "0061-rotate-list/0061-rotate-list.py",
+          "sha": "804d13b5af8fbf4c237a7ab9f8c89a66f69342d8",
+          "lastSyncedAt": "2026-06-19T12:49:39.803Z"
         }
       ]
     },
