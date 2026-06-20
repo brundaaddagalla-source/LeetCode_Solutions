@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 40 | 2 | 33 | 5 |
+| 41 | 2 | 34 | 5 |
 
 ## Activity
 
@@ -20,22 +20,22 @@ Contains topicwise list of solved problems.
 | 2026-06-17 | 8 |
 | 2026-06-18 | 10 |
 | 2026-06-19 | 8 |
-| 2026-06-20 | 1 |
+| 2026-06-20 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 16 | 40% |
-| Array | 15 | 38% |
-| Two Pointers | 11 | 28% |
-| Hash Table | 10 | 25% |
-| Linked List | 10 | 25% |
+| String | 16 | 39% |
+| Array | 15 | 37% |
+| Two Pointers | 11 | 27% |
+| Hash Table | 10 | 24% |
+| Linked List | 10 | 24% |
 | Sorting | 8 | 20% |
 | Greedy | 6 | 15% |
-| Sliding Window | 5 | 13% |
+| Sliding Window | 5 | 12% |
+| Stack | 5 | 12% |
 | Divide and Conquer | 4 | 10% |
-| Heap (Priority Queue) | 4 | 10% |
 
 ## Topics
 
@@ -47,6 +47,7 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
 | [Data Structures](Topics/data-structures/) | 0 |
+| [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
@@ -63,7 +64,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 2 |
-| [Stack](Topics/stack/) | 3 |
+| [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 7 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
 <!---LeetHub Summary End-->
