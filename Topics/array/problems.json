@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-06-19T06:00:15.424Z",
+  "updatedAt": "2026-06-20T06:25:07.907Z",
   "problems": [
     {
       "frontendId": "68",
@@ -83,6 +83,26 @@
           "path": "1732-find-the-highest-altitude/1732-find-the-highest-altitude.py",
           "sha": "280a104deff9c1102ef76d021da78b061b91ec53",
           "lastSyncedAt": "2026-06-19T06:00:15.424Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1840",
+      "title": "Maximum Building Height",
+      "slug": "maximum-building-height",
+      "problemName": "1840-maximum-building-height",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-building-height/",
+      "folderPath": "1840-maximum-building-height/",
+      "readmePath": "1840-maximum-building-height/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1840-maximum-building-height.py",
+          "path": "1840-maximum-building-height/1840-maximum-building-height.py",
+          "sha": "6de70c1af146b3d04d4b1a5be963d751fcd78010",
+          "lastSyncedAt": "2026-06-20T06:25:07.907Z"
         }
       ]
     }
