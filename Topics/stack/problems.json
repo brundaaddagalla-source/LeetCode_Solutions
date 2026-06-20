@@ -4,8 +4,28 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-06-19T07:16:23.839Z",
+  "updatedAt": "2026-06-20T06:33:29.576Z",
   "problems": [
+    {
+      "frontendId": "155",
+      "title": "Min Stack",
+      "slug": "min-stack",
+      "problemName": "0155-min-stack",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/min-stack/",
+      "folderPath": "0155-min-stack/",
+      "readmePath": "0155-min-stack/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0155-min-stack.py",
+          "path": "0155-min-stack/0155-min-stack.py",
+          "sha": "1837eadf2ee2fe77705d850916a768386355ac8c",
+          "lastSyncedAt": "2026-06-20T06:33:29.576Z"
+        }
+      ]
+    },
     {
       "frontendId": "445",
       "title": "Add Two Numbers II",
