@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-06-19T07:16:23.839Z",
+  "updatedAt": "2026-06-20T06:25:07.907Z",
   "problems": [
     {
       "frontendId": "445",
@@ -43,6 +43,26 @@
           "path": "1344-angle-between-hands-of-a-clock/1344-angle-between-hands-of-a-clock.py",
           "sha": "d4c4bd8dd76713984ce08abab8df6409472cd618",
           "lastSyncedAt": "2026-06-18T06:41:49.852Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1840",
+      "title": "Maximum Building Height",
+      "slug": "maximum-building-height",
+      "problemName": "1840-maximum-building-height",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-building-height/",
+      "folderPath": "1840-maximum-building-height/",
+      "readmePath": "1840-maximum-building-height/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1840-maximum-building-height.py",
+          "path": "1840-maximum-building-height/1840-maximum-building-height.py",
+          "sha": "6de70c1af146b3d04d4b1a5be963d751fcd78010",
+          "lastSyncedAt": "2026-06-20T06:25:07.907Z"
         }
       ]
     }
