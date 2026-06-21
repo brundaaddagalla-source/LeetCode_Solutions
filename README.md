@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 41 | 2 | 34 | 5 |
+| 42 | 2 | 35 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 6 days | 6 |
+| 7 days | 7 days | 7 |
 
 | Date | Problems |
 | --- | ---: |
@@ -21,18 +21,19 @@ Contains topicwise list of solved problems.
 | 2026-06-18 | 10 |
 | 2026-06-19 | 8 |
 | 2026-06-20 | 2 |
+| 2026-06-21 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 16 | 39% |
-| Array | 15 | 37% |
-| Two Pointers | 11 | 27% |
+| Array | 16 | 38% |
+| String | 16 | 38% |
+| Two Pointers | 11 | 26% |
 | Hash Table | 10 | 24% |
 | Linked List | 10 | 24% |
-| Sorting | 8 | 20% |
-| Greedy | 6 | 15% |
+| Sorting | 9 | 21% |
+| Greedy | 7 | 17% |
 | Sliding Window | 5 | 12% |
 | Stack | 5 | 12% |
 | Divide and Conquer | 4 | 10% |
@@ -41,17 +42,18 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 5 |
+| [Array](Topics/array/) | 6 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
+| [Counting Sort](Topics/counting-sort/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 3 |
+| [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 6 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
@@ -63,7 +65,7 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
-| [Sorting](Topics/sorting/) | 2 |
+| [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 7 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
