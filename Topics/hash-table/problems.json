@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-06-21T12:30:01.621Z",
+  "updatedAt": "2026-06-21T12:40:36.770Z",
   "problems": [
     {
       "frontendId": "138",
@@ -102,7 +102,7 @@
           "filename": "0496-next-greater-element-i.py",
           "path": "0496-next-greater-element-i/0496-next-greater-element-i.py",
           "sha": "536e98521bab02c051df7d39a4ad5a2ffb806726",
-          "lastSyncedAt": "2026-06-21T12:30:01.621Z"
+          "lastSyncedAt": "2026-06-21T12:40:36.770Z"
         }
       ]
     },
