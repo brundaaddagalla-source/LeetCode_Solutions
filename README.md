@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 42 | 2 | 35 | 5 |
+| 43 | 3 | 35 | 5 |
 
 ## Activity
 
@@ -21,28 +21,28 @@ Contains topicwise list of solved problems.
 | 2026-06-18 | 10 |
 | 2026-06-19 | 8 |
 | 2026-06-20 | 2 |
-| 2026-06-21 | 1 |
+| 2026-06-21 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 38% |
-| String | 16 | 38% |
+| Array | 17 | 40% |
+| String | 16 | 37% |
+| Hash Table | 11 | 26% |
 | Two Pointers | 11 | 26% |
-| Hash Table | 10 | 24% |
-| Linked List | 10 | 24% |
+| Linked List | 10 | 23% |
 | Sorting | 9 | 21% |
-| Greedy | 7 | 17% |
+| Greedy | 7 | 16% |
+| Stack | 6 | 14% |
 | Sliding Window | 5 | 12% |
-| Stack | 5 | 12% |
-| Divide and Conquer | 4 | 10% |
+| Divide and Conquer | 4 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 6 |
+| [Array](Topics/array/) | 7 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -54,19 +54,20 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 6 |
+| [Hash Table](Topics/hash-table/) | 7 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 9 |
 | [Math](Topics/math/) | 3 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 3 |
-| [Stack](Topics/stack/) | 4 |
+| [Stack](Topics/stack/) | 5 |
 | [String](Topics/string/) | 7 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
 <!---LeetHub Summary End-->
