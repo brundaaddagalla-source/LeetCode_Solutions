@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 44 | 4 | 35 | 5 |
+| 45 | 4 | 36 | 5 |
 
 ## Activity
 
@@ -22,20 +22,20 @@ Contains topicwise list of solved problems.
 | 2026-06-19 | 8 |
 | 2026-06-20 | 2 |
 | 2026-06-21 | 2 |
-| 2026-06-22 | 1 |
+| 2026-06-22 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 39% |
-| String | 17 | 39% |
+| Array | 18 | 40% |
+| String | 17 | 38% |
 | Hash Table | 12 | 27% |
-| Two Pointers | 11 | 25% |
-| Linked List | 10 | 23% |
+| Two Pointers | 11 | 24% |
+| Linked List | 10 | 22% |
 | Sorting | 9 | 20% |
 | Greedy | 7 | 16% |
-| Stack | 6 | 14% |
+| Stack | 7 | 16% |
 | Sliding Window | 5 | 11% |
 | Divide and Conquer | 4 | 9% |
 
@@ -43,7 +43,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 7 |
+| [Array](Topics/array/) | 8 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -63,13 +63,13 @@ Contains topicwise list of solved problems.
 | [Math](Topics/math/) | 3 |
 | [Matrix](Topics/matrix/) | 0 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
-| [Monotonic Stack](Topics/monotonic-stack/) | 1 |
+| [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 3 |
-| [Stack](Topics/stack/) | 5 |
+| [Stack](Topics/stack/) | 6 |
 | [String](Topics/string/) | 8 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
 <!---LeetHub Summary End-->
