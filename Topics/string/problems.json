@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-06-18T18:04:28.605Z",
+  "updatedAt": "2026-06-22T07:31:28.849Z",
   "problems": [
     {
       "frontendId": "68",
@@ -143,6 +143,26 @@
           "path": "0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.py",
           "sha": "26eca0eea49c0b985d35f0cd989a26d95f634f2d",
           "lastSyncedAt": "2026-06-18T08:00:32.124Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1189",
+      "title": "Maximum Number of Balloons",
+      "slug": "maximum-number-of-balloons",
+      "problemName": "1189-maximum-number-of-balloons",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-balloons/",
+      "folderPath": "1189-maximum-number-of-balloons/",
+      "readmePath": "1189-maximum-number-of-balloons/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1189-maximum-number-of-balloons.py",
+          "path": "1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.py",
+          "sha": "27ee39e12ad005441cfd449e934e2778a3c80ebe",
+          "lastSyncedAt": "2026-06-22T07:31:28.849Z"
         }
       ]
     }
