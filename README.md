@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 45 | 4 | 36 | 5 |
+| 46 | 4 | 36 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 8 days | 8 |
+| 9 days | 9 days | 9 |
 
 | Date | Problems |
 | --- | ---: |
@@ -23,19 +23,20 @@ Contains topicwise list of solved problems.
 | 2026-06-20 | 2 |
 | 2026-06-21 | 2 |
 | 2026-06-22 | 2 |
+| 2026-06-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 18 | 40% |
-| String | 17 | 38% |
-| Hash Table | 12 | 27% |
+| Array | 18 | 39% |
+| String | 17 | 37% |
+| Hash Table | 12 | 26% |
 | Two Pointers | 11 | 24% |
 | Linked List | 10 | 22% |
 | Sorting | 9 | 20% |
-| Greedy | 7 | 16% |
-| Stack | 7 | 16% |
+| Greedy | 7 | 15% |
+| Stack | 7 | 15% |
 | Sliding Window | 5 | 11% |
 | Divide and Conquer | 4 | 9% |
 
@@ -53,7 +54,7 @@ Contains topicwise list of solved problems.
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 8 |
@@ -64,7 +65,7 @@ Contains topicwise list of solved problems.
 | [Matrix](Topics/matrix/) | 0 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
-| [Prefix Sum](Topics/prefix-sum/) | 3 |
+| [Prefix Sum](Topics/prefix-sum/) | 4 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
