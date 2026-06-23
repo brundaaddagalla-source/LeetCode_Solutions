@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-06-19T06:00:15.424Z",
+  "updatedAt": "2026-06-23T16:46:36.716Z",
   "problems": [
     {
       "frontendId": "209",
@@ -63,6 +63,26 @@
           "path": "1732-find-the-highest-altitude/1732-find-the-highest-altitude.py",
           "sha": "280a104deff9c1102ef76d021da78b061b91ec53",
           "lastSyncedAt": "2026-06-19T06:00:15.424Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3699",
+      "title": "Number of ZigZag Arrays I",
+      "slug": "number-of-zigzag-arrays-i",
+      "problemName": "3699-number-of-zigzag-arrays-i",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-zigzag-arrays-i/",
+      "folderPath": "3699-number-of-zigzag-arrays-i/",
+      "readmePath": "3699-number-of-zigzag-arrays-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3699-number-of-zigzag-arrays-i.py",
+          "path": "3699-number-of-zigzag-arrays-i/3699-number-of-zigzag-arrays-i.py",
+          "sha": "71df50591068f4ae5ff224022cb3a622805bce90",
+          "lastSyncedAt": "2026-06-23T16:46:36.716Z"
         }
       ]
     }
