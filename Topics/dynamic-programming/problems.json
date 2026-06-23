@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-06-17T19:28:06.902Z",
+  "updatedAt": "2026-06-23T16:46:36.716Z",
   "problems": [
     {
       "frontendId": "678",
@@ -23,6 +23,26 @@
           "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.py",
           "sha": "f3c49238eaca09cd31b1bdbc4a6268e20ae82a83",
           "lastSyncedAt": "2026-06-17T19:28:06.902Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3699",
+      "title": "Number of ZigZag Arrays I",
+      "slug": "number-of-zigzag-arrays-i",
+      "problemName": "3699-number-of-zigzag-arrays-i",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-zigzag-arrays-i/",
+      "folderPath": "3699-number-of-zigzag-arrays-i/",
+      "readmePath": "3699-number-of-zigzag-arrays-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3699-number-of-zigzag-arrays-i.py",
+          "path": "3699-number-of-zigzag-arrays-i/3699-number-of-zigzag-arrays-i.py",
+          "sha": "71df50591068f4ae5ff224022cb3a622805bce90",
+          "lastSyncedAt": "2026-06-23T16:46:36.716Z"
         }
       ]
     }
