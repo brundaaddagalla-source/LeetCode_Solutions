@@ -4,7 +4,7 @@
     "slug": "monotonic-stack",
     "name": "Monotonic Stack"
   },
-  "updatedAt": "2026-07-10T14:20:04.416Z",
+  "updatedAt": "2026-07-10T14:38:26.320Z",
   "problems": [
     {
       "frontendId": "84",
@@ -63,6 +63,26 @@
           "path": "0503-next-greater-element-ii/0503-next-greater-element-ii.py",
           "sha": "01d3ba23341ae454e9196872c50156b186e90540",
           "lastSyncedAt": "2026-06-22T07:34:31.159Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "739",
+      "title": "Daily Temperatures",
+      "slug": "daily-temperatures",
+      "problemName": "0739-daily-temperatures",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/daily-temperatures/",
+      "folderPath": "0739-daily-temperatures/",
+      "readmePath": "0739-daily-temperatures/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0739-daily-temperatures.py",
+          "path": "0739-daily-temperatures/0739-daily-temperatures.py",
+          "sha": "31f47a1fa00dc4cf8c8d561abf4950e5420e79d4",
+          "lastSyncedAt": "2026-07-10T14:38:26.320Z"
         }
       ]
     }
