@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-10T14:38:26.320Z",
+  "updatedAt": "2026-07-14T06:42:21.312Z",
   "problems": [
     {
       "frontendId": "68",
@@ -43,6 +43,26 @@
           "path": "0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.py",
           "sha": "001426eb5ca69c9e102f4498f0b793f6ced65671",
           "lastSyncedAt": "2026-07-10T14:20:04.416Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "150",
+      "title": "Evaluate Reverse Polish Notation",
+      "slug": "evaluate-reverse-polish-notation",
+      "problemName": "0150-evaluate-reverse-polish-notation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+      "folderPath": "0150-evaluate-reverse-polish-notation/",
+      "readmePath": "0150-evaluate-reverse-polish-notation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0150-evaluate-reverse-polish-notation.py",
+          "path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py",
+          "sha": "16f8118720bc4456a32661780ca3c237d0240102",
+          "lastSyncedAt": "2026-07-14T06:42:21.312Z"
         }
       ]
     },
