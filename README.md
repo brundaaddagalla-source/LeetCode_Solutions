@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 50 | 4 | 39 | 7 |
+| 51 | 4 | 40 | 7 |
 
 ## Activity
 
@@ -25,15 +25,15 @@ Contains topicwise list of solved problems.
 | 2026-06-22 | 2 |
 | 2026-06-23 | 1 |
 | 2026-07-10 | 2 |
-| 2026-07-14 | 2 |
+| 2026-07-14 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 21 | 42% |
-| String | 17 | 34% |
-| Hash Table | 13 | 26% |
+| Array | 21 | 41% |
+| String | 17 | 33% |
+| Hash Table | 13 | 25% |
 | Linked List | 11 | 22% |
 | Two Pointers | 11 | 22% |
 | Stack | 10 | 20% |
@@ -49,8 +49,9 @@ Contains topicwise list of solved problems.
 | [Array](Topics/array/) | 11 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 2 |
-| [Binary Tree](Topics/binary-tree/) | 0 |
+| [Binary Tree](Topics/binary-tree/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 0 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
@@ -75,5 +76,6 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 9 |
 | [String](Topics/string/) | 8 |
+| [Tree](Topics/tree/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
 <!---LeetHub Summary End-->
