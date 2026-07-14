@@ -4,6 +4,27 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-06-17T19:09:00.697Z",
-  "problems": []
+  "updatedAt": "2026-07-14T08:44:42.408Z",
+  "problems": [
+    {
+      "frontendId": "103",
+      "title": "Binary Tree Zigzag Level Order Traversal",
+      "slug": "binary-tree-zigzag-level-order-traversal",
+      "problemName": "0103-binary-tree-zigzag-level-order-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+      "folderPath": "0103-binary-tree-zigzag-level-order-traversal/",
+      "readmePath": "0103-binary-tree-zigzag-level-order-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0103-binary-tree-zigzag-level-order-traversal.py",
+          "path": "0103-binary-tree-zigzag-level-order-traversal/0103-binary-tree-zigzag-level-order-traversal.py",
+          "sha": "e516433e8918f2ee9369de11e3ffa63b806f71fe",
+          "lastSyncedAt": "2026-07-14T08:44:42.408Z"
+        }
+      ]
+    }
+  ]
 }
