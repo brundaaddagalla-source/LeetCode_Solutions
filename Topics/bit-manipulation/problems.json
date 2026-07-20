@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-07-20T05:53:50.288Z",
+  "updatedAt": "2026-07-20T06:43:29.529Z",
   "problems": [
     {
       "frontendId": "78",
@@ -83,6 +83,26 @@
           "path": "0137-single-number-ii/0137-single-number-ii.py",
           "sha": "f2c7c8eb5954c3960ef1b9192288c7f4272eb3ee",
           "lastSyncedAt": "2026-07-20T04:26:57.110Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "190",
+      "title": "Reverse Bits",
+      "slug": "reverse-bits",
+      "problemName": "0190-reverse-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-bits/",
+      "folderPath": "0190-reverse-bits/",
+      "readmePath": "0190-reverse-bits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0190-reverse-bits.py",
+          "path": "0190-reverse-bits/0190-reverse-bits.py",
+          "sha": "ea21c5fc60063a86e35b36623f6bfe834d7aad72",
+          "lastSyncedAt": "2026-07-20T06:43:29.529Z"
         }
       ]
     },
