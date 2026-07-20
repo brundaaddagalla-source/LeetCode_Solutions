@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-14T06:42:21.312Z",
+  "updatedAt": "2026-07-20T03:20:50.554Z",
   "problems": [
+    {
+      "frontendId": "89",
+      "title": "Gray Code",
+      "slug": "gray-code",
+      "problemName": "0089-gray-code",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/gray-code/",
+      "folderPath": "0089-gray-code/",
+      "readmePath": "0089-gray-code/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0089-gray-code.py",
+          "path": "0089-gray-code/0089-gray-code.py",
+          "sha": "4a79dfd9ba4605d9eb7d8c366d514c93e314b8c7",
+          "lastSyncedAt": "2026-07-20T03:20:50.554Z"
+        }
+      ]
+    },
     {
       "frontendId": "150",
       "title": "Evaluate Reverse Polish Notation",
