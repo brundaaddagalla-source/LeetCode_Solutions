@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 56 | 5 | 44 | 7 |
+| 57 | 5 | 45 | 7 |
 
 ## Activity
 
@@ -26,20 +26,20 @@ Contains topicwise list of solved problems.
 | 2026-06-23 | 1 |
 | 2026-07-10 | 2 |
 | 2026-07-14 | 4 |
-| 2026-07-20 | 4 |
+| 2026-07-20 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 24 | 43% |
+| Array | 25 | 44% |
 | String | 17 | 30% |
 | Hash Table | 13 | 23% |
-| Linked List | 11 | 20% |
-| Two Pointers | 11 | 20% |
+| Linked List | 11 | 19% |
+| Two Pointers | 11 | 19% |
 | Stack | 10 | 18% |
 | Sorting | 9 | 16% |
-| Greedy | 7 | 13% |
+| Greedy | 7 | 12% |
 | Math | 6 | 11% |
 | Simulation | 5 | 9% |
 
@@ -47,11 +47,11 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 15 |
+| [Array](Topics/array/) | 16 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 4 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 5 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
