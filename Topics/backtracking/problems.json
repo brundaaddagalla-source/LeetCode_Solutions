@@ -4,7 +4,7 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-07-20T03:15:40.157Z",
+  "updatedAt": "2026-07-20T03:20:50.554Z",
   "problems": [
     {
       "frontendId": "78",
@@ -23,6 +23,26 @@
           "path": "0078-subsets/0078-subsets.py",
           "sha": "54556b94f915d8613c158d80004c08f8cb278c1b",
           "lastSyncedAt": "2026-07-20T03:14:48.370Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "89",
+      "title": "Gray Code",
+      "slug": "gray-code",
+      "problemName": "0089-gray-code",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/gray-code/",
+      "folderPath": "0089-gray-code/",
+      "readmePath": "0089-gray-code/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0089-gray-code.py",
+          "path": "0089-gray-code/0089-gray-code.py",
+          "sha": "4a79dfd9ba4605d9eb7d8c366d514c93e314b8c7",
+          "lastSyncedAt": "2026-07-20T03:20:50.554Z"
         }
       ]
     },
