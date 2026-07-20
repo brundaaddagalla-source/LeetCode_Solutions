@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 55 | 5 | 43 | 7 |
+| 56 | 5 | 44 | 7 |
 
 ## Activity
 
@@ -26,15 +26,15 @@ Contains topicwise list of solved problems.
 | 2026-06-23 | 1 |
 | 2026-07-10 | 2 |
 | 2026-07-14 | 4 |
-| 2026-07-20 | 3 |
+| 2026-07-20 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 42% |
-| String | 17 | 31% |
-| Hash Table | 13 | 24% |
+| Array | 24 | 43% |
+| String | 17 | 30% |
+| Hash Table | 13 | 23% |
 | Linked List | 11 | 20% |
 | Two Pointers | 11 | 20% |
 | Stack | 10 | 18% |
@@ -47,11 +47,11 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 14 |
+| [Array](Topics/array/) | 15 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 3 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 4 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
