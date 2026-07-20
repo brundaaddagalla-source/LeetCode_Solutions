@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-18T05:00:51.114Z",
+  "updatedAt": "2026-07-20T03:06:50.739Z",
   "problems": [
     {
       "frontendId": "68",
@@ -183,6 +183,26 @@
           "path": "0739-daily-temperatures/0739-daily-temperatures.py",
           "sha": "31f47a1fa00dc4cf8c8d561abf4950e5420e79d4",
           "lastSyncedAt": "2026-07-10T14:38:26.320Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1260",
+      "title": "Shift 2D Grid",
+      "slug": "shift-2d-grid",
+      "problemName": "1260-shift-2d-grid",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shift-2d-grid/",
+      "folderPath": "1260-shift-2d-grid/",
+      "readmePath": "1260-shift-2d-grid/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1260-shift-2d-grid.py",
+          "path": "1260-shift-2d-grid/1260-shift-2d-grid.py",
+          "sha": "1c0ee62897c638402289e0d55103042aa72ec155",
+          "lastSyncedAt": "2026-07-20T03:06:50.739Z"
         }
       ]
     },
