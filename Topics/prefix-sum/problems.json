@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-06-23T16:46:36.716Z",
+  "updatedAt": "2026-07-20T15:55:21.818Z",
   "problems": [
     {
       "frontendId": "209",
@@ -43,6 +43,26 @@
           "path": "0713-subarray-product-less-than-k/0713-subarray-product-less-than-k.py",
           "sha": "14837cd80fab4b87eb51daf30921ba4271457543",
           "lastSyncedAt": "2026-06-18T17:33:47.612Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1310",
+      "title": "XOR Queries of a Subarray",
+      "slug": "xor-queries-of-a-subarray",
+      "problemName": "1310-xor-queries-of-a-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-queries-of-a-subarray/",
+      "folderPath": "1310-xor-queries-of-a-subarray/",
+      "readmePath": "1310-xor-queries-of-a-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1310-xor-queries-of-a-subarray.py",
+          "path": "1310-xor-queries-of-a-subarray/1310-xor-queries-of-a-subarray.py",
+          "sha": "ecb6c9829d98ec4aa56b976b8d75b248f7d0278c",
+          "lastSyncedAt": "2026-07-20T15:55:21.818Z"
         }
       ]
     },
