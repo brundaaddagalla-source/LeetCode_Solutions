@@ -4,6 +4,27 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-06-17T19:09:00.697Z",
-  "problems": []
+  "updatedAt": "2026-07-20T03:14:48.370Z",
+  "problems": [
+    {
+      "frontendId": "78",
+      "title": "Subsets",
+      "slug": "subsets",
+      "problemName": "0078-subsets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+      "folderPath": "0078-subsets/",
+      "readmePath": "0078-subsets/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0078-subsets.py",
+          "path": "0078-subsets/0078-subsets.py",
+          "sha": "54556b94f915d8613c158d80004c08f8cb278c1b",
+          "lastSyncedAt": "2026-07-20T03:14:48.370Z"
+        }
+      ]
+    }
+  ]
 }
