@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-07-20T06:51:11.664Z",
+  "updatedAt": "2026-07-20T15:55:21.818Z",
   "problems": [
     {
       "frontendId": "78",
@@ -163,6 +163,26 @@
           "path": "0371-sum-of-two-integers/0371-sum-of-two-integers.py",
           "sha": "4119a0696039e3535cf7ab771cd20dcf223fa937",
           "lastSyncedAt": "2026-07-20T05:53:50.288Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1310",
+      "title": "XOR Queries of a Subarray",
+      "slug": "xor-queries-of-a-subarray",
+      "problemName": "1310-xor-queries-of-a-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-queries-of-a-subarray/",
+      "folderPath": "1310-xor-queries-of-a-subarray/",
+      "readmePath": "1310-xor-queries-of-a-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1310-xor-queries-of-a-subarray.py",
+          "path": "1310-xor-queries-of-a-subarray/1310-xor-queries-of-a-subarray.py",
+          "sha": "ecb6c9829d98ec4aa56b976b8d75b248f7d0278c",
+          "lastSyncedAt": "2026-07-20T15:55:21.818Z"
         }
       ]
     }
