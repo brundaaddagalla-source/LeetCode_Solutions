@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 59 | 6 | 46 | 7 |
+| 60 | 7 | 46 | 7 |
 
 ## Activity
 
@@ -26,22 +26,22 @@ Contains topicwise list of solved problems.
 | 2026-06-23 | 1 |
 | 2026-07-10 | 2 |
 | 2026-07-14 | 4 |
-| 2026-07-20 | 7 |
+| 2026-07-20 | 8 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 25 | 42% |
-| String | 17 | 29% |
+| String | 17 | 28% |
 | Hash Table | 13 | 22% |
-| Linked List | 11 | 19% |
-| Two Pointers | 11 | 19% |
+| Linked List | 11 | 18% |
+| Two Pointers | 11 | 18% |
 | Stack | 10 | 17% |
 | Sorting | 9 | 15% |
+| Bit Manipulation | 7 | 12% |
 | Greedy | 7 | 12% |
 | Math | 7 | 12% |
-| Bit Manipulation | 6 | 10% |
 
 ## Topics
 
@@ -51,14 +51,14 @@ Contains topicwise list of solved problems.
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 7 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 8 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Counting Sort](Topics/counting-sort/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Design](Topics/design/) | 2 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Graph](Topics/graph/) | 0 |
