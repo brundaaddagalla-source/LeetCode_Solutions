@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-07-20T05:05:51.156Z",
+  "updatedAt": "2026-07-20T05:53:50.288Z",
   "problems": [
     {
       "frontendId": "78",
@@ -103,6 +103,26 @@
           "path": "0260-single-number-iii/0260-single-number-iii.py",
           "sha": "639376ba1118a6b397219fc59e4bae7106d071a7",
           "lastSyncedAt": "2026-07-20T05:05:51.156Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "371",
+      "title": "Sum of Two Integers",
+      "slug": "sum-of-two-integers",
+      "problemName": "0371-sum-of-two-integers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-two-integers/",
+      "folderPath": "0371-sum-of-two-integers/",
+      "readmePath": "0371-sum-of-two-integers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0371-sum-of-two-integers.py",
+          "path": "0371-sum-of-two-integers/0371-sum-of-two-integers.py",
+          "sha": "4119a0696039e3535cf7ab771cd20dcf223fa937",
+          "lastSyncedAt": "2026-07-20T05:53:50.288Z"
         }
       ]
     }
