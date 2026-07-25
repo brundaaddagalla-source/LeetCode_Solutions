@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 64 | 8 | 49 | 7 |
+| 65 | 8 | 50 | 7 |
 
 ## Activity
 
@@ -28,28 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-07-20 | 9 |
 | 2026-07-21 | 1 |
 | 2026-07-23 | 1 |
-| 2026-07-25 | 1 |
+| 2026-07-25 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 27 | 42% |
-| String | 17 | 27% |
+| Array | 28 | 43% |
+| String | 17 | 26% |
 | Hash Table | 13 | 20% |
-| Two Pointers | 12 | 19% |
+| Two Pointers | 12 | 18% |
 | Linked List | 11 | 17% |
-| Sorting | 10 | 16% |
-| Stack | 10 | 16% |
+| Sorting | 10 | 15% |
+| Stack | 10 | 15% |
 | Bit Manipulation | 9 | 14% |
-| Math | 8 | 13% |
-| Greedy | 7 | 11% |
+| Greedy | 8 | 12% |
+| Math | 8 | 12% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 18 |
+| [Array](Topics/array/) | 19 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -62,9 +62,9 @@ Contains topicwise list of solved problems.
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 4 |
+| [Greedy](Topics/greedy/) | 5 |
 | [Hash Table](Topics/hash-table/) | 9 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
