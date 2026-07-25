@@ -4,8 +4,28 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-06-23T16:46:36.716Z",
+  "updatedAt": "2026-07-25T04:51:03.775Z",
   "problems": [
+    {
+      "frontendId": "55",
+      "title": "Jump Game",
+      "slug": "jump-game",
+      "problemName": "0055-jump-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game/",
+      "folderPath": "0055-jump-game/",
+      "readmePath": "0055-jump-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0055-jump-game.py",
+          "path": "0055-jump-game/0055-jump-game.py",
+          "sha": "0a7d0a399e7956cc9123ebac528983b786cf63ac",
+          "lastSyncedAt": "2026-07-25T04:51:03.775Z"
+        }
+      ]
+    },
     {
       "frontendId": "678",
       "title": "Valid Parenthesis String",
