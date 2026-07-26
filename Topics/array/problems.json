@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-26T01:48:42.697Z",
+  "updatedAt": "2026-07-26T01:51:54.190Z",
   "problems": [
     {
       "frontendId": "55",
@@ -403,6 +403,26 @@
           "path": "1840-maximum-building-height/1840-maximum-building-height.py",
           "sha": "6de70c1af146b3d04d4b1a5be963d751fcd78010",
           "lastSyncedAt": "2026-06-20T06:25:07.907Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1929",
+      "title": "Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "problemName": "1929-concatenation-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-array/",
+      "folderPath": "1929-concatenation-of-array/",
+      "readmePath": "1929-concatenation-of-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1929-concatenation-of-array.py",
+          "path": "1929-concatenation-of-array/1929-concatenation-of-array.py",
+          "sha": "30b1ce567543dcab90c0bb7171a514af1c481eb2",
+          "lastSyncedAt": "2026-07-26T01:51:54.190Z"
         }
       ]
     }
