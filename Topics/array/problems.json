@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-27T05:45:48.401Z",
+  "updatedAt": "2026-07-27T06:47:31.344Z",
   "problems": [
     {
       "frontendId": "55",
@@ -363,6 +363,26 @@
           "path": "1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.py",
           "sha": "3235f7036adfa7dcca51bf506a6da8fd62780562",
           "lastSyncedAt": "2026-07-27T05:45:48.401Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1470",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "problemName": "1470-shuffle-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array/",
+      "folderPath": "1470-shuffle-the-array/",
+      "readmePath": "1470-shuffle-the-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1470-shuffle-the-array.py",
+          "path": "1470-shuffle-the-array/1470-shuffle-the-array.py",
+          "sha": "32e5e118f46ad85b13842f74fa509a2e18712006",
+          "lastSyncedAt": "2026-07-27T06:47:31.344Z"
         }
       ]
     },
