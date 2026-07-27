@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-07-27T05:44:47.410Z",
+  "updatedAt": "2026-07-27T05:45:48.401Z",
   "problems": [
     {
       "frontendId": "23",
@@ -42,7 +42,7 @@
           "filename": "1464-maximum-product-of-two-elements-in-an-array.py",
           "path": "1464-maximum-product-of-two-elements-in-an-array/1464-maximum-product-of-two-elements-in-an-array.py",
           "sha": "3235f7036adfa7dcca51bf506a6da8fd62780562",
-          "lastSyncedAt": "2026-07-27T05:44:47.410Z"
+          "lastSyncedAt": "2026-07-27T05:45:48.401Z"
         }
       ]
     }
