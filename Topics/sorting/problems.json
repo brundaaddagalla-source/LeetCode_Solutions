@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-07-27T05:45:48.401Z",
+  "updatedAt": "2026-07-28T03:47:58.179Z",
   "problems": [
     {
       "frontendId": "148",
@@ -103,6 +103,26 @@
           "path": "1840-maximum-building-height/1840-maximum-building-height.py",
           "sha": "6de70c1af146b3d04d4b1a5be963d751fcd78010",
           "lastSyncedAt": "2026-06-20T06:25:07.907Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3517",
+      "title": "Smallest Palindromic Rearrangement I",
+      "slug": "smallest-palindromic-rearrangement-i",
+      "problemName": "3517-smallest-palindromic-rearrangement-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-palindromic-rearrangement-i/",
+      "folderPath": "3517-smallest-palindromic-rearrangement-i/",
+      "readmePath": "3517-smallest-palindromic-rearrangement-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3517-smallest-palindromic-rearrangement-i.py",
+          "path": "3517-smallest-palindromic-rearrangement-i/3517-smallest-palindromic-rearrangement-i.py",
+          "sha": "3754c495d1e197553c4d55826da6a02f162781a7",
+          "lastSyncedAt": "2026-07-28T03:47:58.179Z"
         }
       ]
     },
