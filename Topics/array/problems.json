@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-07-28T04:29:41.202Z",
+  "updatedAt": "2026-07-28T04:51:43.897Z",
   "problems": [
     {
       "frontendId": "55",
@@ -343,6 +343,26 @@
           "path": "0739-daily-temperatures/0739-daily-temperatures.py",
           "sha": "31f47a1fa00dc4cf8c8d561abf4950e5420e79d4",
           "lastSyncedAt": "2026-07-10T14:38:26.320Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "881",
+      "title": "Boats to Save People",
+      "slug": "boats-to-save-people",
+      "problemName": "0881-boats-to-save-people",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/boats-to-save-people/",
+      "folderPath": "0881-boats-to-save-people/",
+      "readmePath": "0881-boats-to-save-people/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0881-boats-to-save-people.py",
+          "path": "0881-boats-to-save-people/0881-boats-to-save-people.py",
+          "sha": "58388feee79b0dd7ea38505a04075155d12b99f8",
+          "lastSyncedAt": "2026-07-28T04:51:43.897Z"
         }
       ]
     },
