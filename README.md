@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 71 | 13 | 51 | 7 |
+| 72 | 13 | 52 | 7 |
 
 ## Activity
 
@@ -26,28 +26,28 @@
 | 2026-07-25 | 2 |
 | 2026-07-26 | 2 |
 | 2026-07-27 | 2 |
-| 2026-07-28 | 2 |
+| 2026-07-28 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 33 | 46% |
+| Array | 34 | 47% |
 | String | 18 | 25% |
+| Sorting | 14 | 19% |
 | Hash Table | 13 | 18% |
-| Sorting | 13 | 18% |
 | Two Pointers | 12 | 17% |
 | Linked List | 11 | 15% |
 | Stack | 10 | 14% |
 | Bit Manipulation | 9 | 13% |
+| Greedy | 9 | 13% |
 | Math | 9 | 13% |
-| Greedy | 8 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 24 |
+| [Array](Topics/array/) | 25 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -62,7 +62,7 @@
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 5 |
+| [Greedy](Topics/greedy/) | 6 |
 | [Hash Table](Topics/hash-table/) | 9 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
@@ -75,7 +75,7 @@
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
-| [Sorting](Topics/sorting/) | 7 |
+| [Sorting](Topics/sorting/) | 8 |
 | [Stack](Topics/stack/) | 9 |
 | [String](Topics/string/) | 9 |
 | [Tree](Topics/tree/) | 2 |
