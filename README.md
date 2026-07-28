@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 69 | 12 | 50 | 7 |
+| 70 | 12 | 51 | 7 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 9 days | 17 |
+| 4 days | 9 days | 18 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-06-18 | 10 |
 | 2026-06-19 | 8 |
 | 2026-06-20 | 2 |
 | 2026-06-21 | 2 |
@@ -27,21 +26,22 @@
 | 2026-07-25 | 2 |
 | 2026-07-26 | 2 |
 | 2026-07-27 | 2 |
+| 2026-07-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 32 | 46% |
-| String | 17 | 25% |
+| String | 18 | 26% |
 | Hash Table | 13 | 19% |
-| Sorting | 12 | 17% |
+| Sorting | 13 | 19% |
 | Two Pointers | 12 | 17% |
 | Linked List | 11 | 16% |
 | Stack | 10 | 14% |
 | Bit Manipulation | 9 | 13% |
 | Math | 9 | 13% |
-| Greedy | 8 | 12% |
+| Greedy | 8 | 11% |
 
 ## Topics
 
@@ -54,7 +54,7 @@
 | [Bit Manipulation](Topics/bit-manipulation/) | 10 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Counting](Topics/counting/) | 1 |
-| [Counting Sort](Topics/counting-sort/) | 1 |
+| [Counting Sort](Topics/counting-sort/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
 | [Design](Topics/design/) | 2 |
@@ -75,9 +75,9 @@
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
-| [Sorting](Topics/sorting/) | 6 |
+| [Sorting](Topics/sorting/) | 7 |
 | [Stack](Topics/stack/) | 9 |
-| [String](Topics/string/) | 8 |
+| [String](Topics/string/) | 9 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 7 |
 <!---LeetHub Summary End-->
