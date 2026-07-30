@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-07-30T05:34:40.657Z",
+  "updatedAt": "2026-07-30T05:57:14.754Z",
   "problems": [
     {
       "frontendId": "55",
@@ -123,6 +123,26 @@
           "path": "0767-reorganize-string/0767-reorganize-string.py",
           "sha": "27bfebca5f205ec39700215754407fbba869cff5",
           "lastSyncedAt": "2026-07-30T05:34:40.657Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "860",
+      "title": "Lemonade Change",
+      "slug": "lemonade-change",
+      "problemName": "0860-lemonade-change",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/lemonade-change/",
+      "folderPath": "0860-lemonade-change/",
+      "readmePath": "0860-lemonade-change/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0860-lemonade-change.py",
+          "path": "0860-lemonade-change/0860-lemonade-change.py",
+          "sha": "4201ff308ac5b78e6bc9c8e6a205ad81533d17a5",
+          "lastSyncedAt": "2026-07-30T05:57:14.754Z"
         }
       ]
     },
