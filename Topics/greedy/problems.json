@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-07-30T03:34:14.096Z",
+  "updatedAt": "2026-07-30T05:34:40.657Z",
   "problems": [
     {
       "frontendId": "55",
@@ -103,6 +103,26 @@
           "path": "0763-partition-labels/0763-partition-labels.py",
           "sha": "d14a339c13859e2674cbb8f6b459e87fc00b11a5",
           "lastSyncedAt": "2026-06-18T18:04:28.605Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "767",
+      "title": "Reorganize String",
+      "slug": "reorganize-string",
+      "problemName": "0767-reorganize-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorganize-string/",
+      "folderPath": "0767-reorganize-string/",
+      "readmePath": "0767-reorganize-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0767-reorganize-string.py",
+          "path": "0767-reorganize-string/0767-reorganize-string.py",
+          "sha": "27bfebca5f205ec39700215754407fbba869cff5",
+          "lastSyncedAt": "2026-07-30T05:34:40.657Z"
         }
       ]
     },
