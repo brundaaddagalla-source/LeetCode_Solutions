@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-07-28T04:51:43.897Z",
+  "updatedAt": "2026-07-30T02:54:14.583Z",
   "problems": [
     {
       "frontendId": "55",
@@ -143,6 +143,26 @@
           "path": "1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.py",
           "sha": "9a6532bdb0b1eeb96bdf7f9b8f931d19471081ab",
           "lastSyncedAt": "2026-06-21T12:23:40.538Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3014",
+      "title": "Minimum Number of Pushes to Type Word I",
+      "slug": "minimum-number-of-pushes-to-type-word-i",
+      "problemName": "3014-minimum-number-of-pushes-to-type-word-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/",
+      "folderPath": "3014-minimum-number-of-pushes-to-type-word-i/",
+      "readmePath": "3014-minimum-number-of-pushes-to-type-word-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3014-minimum-number-of-pushes-to-type-word-i.py",
+          "path": "3014-minimum-number-of-pushes-to-type-word-i/3014-minimum-number-of-pushes-to-type-word-i.py",
+          "sha": "ae3810190e1b4970e00fe30419e7c09a19a05ccd",
+          "lastSyncedAt": "2026-07-30T02:54:14.583Z"
         }
       ]
     }
