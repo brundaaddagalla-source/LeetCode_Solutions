@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-07-30T05:31:09.398Z",
+  "updatedAt": "2026-07-30T05:34:40.657Z",
   "problems": [
     {
       "frontendId": "148",
@@ -83,6 +83,26 @@
           "path": "0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.py",
           "sha": "2320f80a8deceb8cd4b8628064ce35897e439541",
           "lastSyncedAt": "2026-07-26T01:48:42.697Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "767",
+      "title": "Reorganize String",
+      "slug": "reorganize-string",
+      "problemName": "0767-reorganize-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reorganize-string/",
+      "folderPath": "0767-reorganize-string/",
+      "readmePath": "0767-reorganize-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0767-reorganize-string.py",
+          "path": "0767-reorganize-string/0767-reorganize-string.py",
+          "sha": "27bfebca5f205ec39700215754407fbba869cff5",
+          "lastSyncedAt": "2026-07-30T05:34:40.657Z"
         }
       ]
     },
