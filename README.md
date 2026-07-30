@@ -3,18 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 73 | 13 | 53 | 7 |
+| 75 | 14 | 53 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 9 days | 18 |
+| 6 days | 9 days | 20 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-06-19 | 8 |
-| 2026-06-20 | 2 |
 | 2026-06-21 | 2 |
 | 2026-06-22 | 2 |
 | 2026-06-23 | 1 |
@@ -27,21 +25,23 @@
 | 2026-07-26 | 2 |
 | 2026-07-27 | 2 |
 | 2026-07-28 | 4 |
+| 2026-07-29 | 1 |
+| 2026-07-30 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 48% |
-| String | 18 | 25% |
-| Sorting | 15 | 21% |
-| Hash Table | 13 | 18% |
-| Two Pointers | 13 | 18% |
+| Array | 35 | 47% |
+| String | 20 | 27% |
+| Sorting | 15 | 20% |
+| Hash Table | 14 | 19% |
+| Two Pointers | 13 | 17% |
+| Greedy | 11 | 15% |
 | Linked List | 11 | 15% |
-| Greedy | 10 | 14% |
-| Stack | 10 | 14% |
+| Math | 11 | 15% |
+| Stack | 10 | 13% |
 | Bit Manipulation | 9 | 12% |
-| Math | 9 | 12% |
 
 ## Topics
 
@@ -53,7 +53,8 @@
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 10 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
-| [Counting](Topics/counting/) | 1 |
+| [Combinatorics](Topics/combinatorics/) | 1 |
+| [Counting](Topics/counting/) | 2 |
 | [Counting Sort](Topics/counting-sort/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
@@ -62,12 +63,12 @@
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Graph](Topics/graph/) | 0 |
-| [Greedy](Topics/greedy/) | 7 |
-| [Hash Table](Topics/hash-table/) | 9 |
+| [Greedy](Topics/greedy/) | 8 |
+| [Hash Table](Topics/hash-table/) | 10 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 2 |
 | [Linked List](Topics/linked-list/) | 10 |
-| [Math](Topics/math/) | 8 |
+| [Math](Topics/math/) | 10 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 4 |
@@ -77,7 +78,7 @@
 | [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 9 |
-| [String](Topics/string/) | 9 |
+| [String](Topics/string/) | 11 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 8 |
 <!---LeetHub Summary End-->
