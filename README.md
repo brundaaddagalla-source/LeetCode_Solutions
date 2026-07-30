@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 76 | 14 | 54 | 8 |
+| 77 | 14 | 55 | 8 |
 
 ## Activity
 
@@ -26,16 +26,16 @@
 | 2026-07-27 | 2 |
 | 2026-07-28 | 4 |
 | 2026-07-29 | 1 |
-| 2026-07-30 | 2 |
+| 2026-07-30 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 36 | 47% |
+| Array | 37 | 48% |
 | String | 20 | 26% |
-| Sorting | 16 | 21% |
-| Hash Table | 15 | 20% |
+| Sorting | 17 | 22% |
+| Hash Table | 15 | 19% |
 | Two Pointers | 13 | 17% |
 | Greedy | 12 | 16% |
 | Linked List | 11 | 14% |
@@ -47,7 +47,7 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 27 |
+| [Array](Topics/array/) | 28 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -76,7 +76,7 @@
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 5 |
-| [Sorting](Topics/sorting/) | 10 |
+| [Sorting](Topics/sorting/) | 11 |
 | [Stack](Topics/stack/) | 9 |
 | [String](Topics/string/) | 11 |
 | [Tree](Topics/tree/) | 2 |
