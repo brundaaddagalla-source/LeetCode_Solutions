@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-07-27T05:45:48.401Z",
+  "updatedAt": "2026-07-30T03:34:14.096Z",
   "problems": [
     {
       "frontendId": "23",
@@ -23,6 +23,26 @@
           "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.py",
           "sha": "7242b9f68bf51d9beac8b271aa15d92b295af542",
           "lastSyncedAt": "2026-06-19T06:53:55.514Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "621",
+      "title": "Task Scheduler",
+      "slug": "task-scheduler",
+      "problemName": "0621-task-scheduler",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/task-scheduler/",
+      "folderPath": "0621-task-scheduler/",
+      "readmePath": "0621-task-scheduler/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0621-task-scheduler.py",
+          "path": "0621-task-scheduler/0621-task-scheduler.py",
+          "sha": "e779fe3f72d66ef787cfe6e6979efff7fdfeb41e",
+          "lastSyncedAt": "2026-07-30T03:34:14.096Z"
         }
       ]
     },
