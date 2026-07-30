@@ -4,8 +4,28 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-07-29T08:35:41.792Z",
+  "updatedAt": "2026-07-30T03:34:14.096Z",
   "problems": [
+    {
+      "frontendId": "621",
+      "title": "Task Scheduler",
+      "slug": "task-scheduler",
+      "problemName": "0621-task-scheduler",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/task-scheduler/",
+      "folderPath": "0621-task-scheduler/",
+      "readmePath": "0621-task-scheduler/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0621-task-scheduler.py",
+          "path": "0621-task-scheduler/0621-task-scheduler.py",
+          "sha": "e779fe3f72d66ef787cfe6e6979efff7fdfeb41e",
+          "lastSyncedAt": "2026-07-30T03:34:14.096Z"
+        }
+      ]
+    },
     {
       "frontendId": "1189",
       "title": "Maximum Number of Balloons",
