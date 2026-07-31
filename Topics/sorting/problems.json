@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-07-30T05:34:40.657Z",
+  "updatedAt": "2026-07-31T03:23:17.497Z",
   "problems": [
     {
       "frontendId": "148",
@@ -203,6 +203,26 @@
           "path": "1840-maximum-building-height/1840-maximum-building-height.py",
           "sha": "6de70c1af146b3d04d4b1a5be963d751fcd78010",
           "lastSyncedAt": "2026-06-20T06:25:07.907Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3016",
+      "title": "Minimum Number of Pushes to Type Word II",
+      "slug": "minimum-number-of-pushes-to-type-word-ii",
+      "problemName": "3016-minimum-number-of-pushes-to-type-word-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/",
+      "folderPath": "3016-minimum-number-of-pushes-to-type-word-ii/",
+      "readmePath": "3016-minimum-number-of-pushes-to-type-word-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3016-minimum-number-of-pushes-to-type-word-ii.py",
+          "path": "3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.py",
+          "sha": "033d9f244c7d531ca785d5fcf9044bc4f26bc86e",
+          "lastSyncedAt": "2026-07-31T03:23:17.497Z"
         }
       ]
     },
