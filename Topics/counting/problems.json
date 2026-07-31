@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-07-30T03:34:14.096Z",
+  "updatedAt": "2026-07-31T03:23:17.497Z",
   "problems": [
     {
       "frontendId": "621",
@@ -43,6 +43,26 @@
           "path": "1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.py",
           "sha": "27ee39e12ad005441cfd449e934e2778a3c80ebe",
           "lastSyncedAt": "2026-06-22T07:31:28.849Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3016",
+      "title": "Minimum Number of Pushes to Type Word II",
+      "slug": "minimum-number-of-pushes-to-type-word-ii",
+      "problemName": "3016-minimum-number-of-pushes-to-type-word-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/",
+      "folderPath": "3016-minimum-number-of-pushes-to-type-word-ii/",
+      "readmePath": "3016-minimum-number-of-pushes-to-type-word-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3016-minimum-number-of-pushes-to-type-word-ii.py",
+          "path": "3016-minimum-number-of-pushes-to-type-word-ii/3016-minimum-number-of-pushes-to-type-word-ii.py",
+          "sha": "033d9f244c7d531ca785d5fcf9044bc4f26bc86e",
+          "lastSyncedAt": "2026-07-31T03:23:17.497Z"
         }
       ]
     },
