@@ -4,8 +4,28 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-07-20T03:20:50.554Z",
+  "updatedAt": "2026-07-31T05:45:18.172Z",
   "problems": [
+    {
+      "frontendId": "46",
+      "title": "Permutations",
+      "slug": "permutations",
+      "problemName": "0046-permutations",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/permutations/",
+      "folderPath": "0046-permutations/",
+      "readmePath": "0046-permutations/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0046-permutations.py",
+          "path": "0046-permutations/0046-permutations.py",
+          "sha": "a703bcef48974de9b408e29901a5070281787101",
+          "lastSyncedAt": "2026-07-31T05:45:18.172Z"
+        }
+      ]
+    },
     {
       "frontendId": "78",
       "title": "Subsets",
