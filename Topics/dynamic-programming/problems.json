@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-07-25T04:51:03.775Z",
+  "updatedAt": "2026-08-02T13:56:34.635Z",
   "problems": [
     {
       "frontendId": "55",
@@ -43,6 +43,26 @@
           "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.py",
           "sha": "f3c49238eaca09cd31b1bdbc4a6268e20ae82a83",
           "lastSyncedAt": "2026-06-17T19:28:06.902Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "0877-stone-game/",
+      "readmePath": "0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0877-stone-game.py",
+          "path": "0877-stone-game/0877-stone-game.py",
+          "sha": "90cf68d496b3ddec87a6ac00085518da931f1d18",
+          "lastSyncedAt": "2026-08-02T13:56:34.635Z"
         }
       ]
     },
