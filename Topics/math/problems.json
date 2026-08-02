@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-07-30T02:54:14.583Z",
+  "updatedAt": "2026-08-02T13:56:34.635Z",
   "problems": [
     {
       "frontendId": "89",
@@ -103,6 +103,26 @@
           "path": "0628-maximum-product-of-three-numbers/0628-maximum-product-of-three-numbers.py",
           "sha": "2320f80a8deceb8cd4b8628064ce35897e439541",
           "lastSyncedAt": "2026-07-26T01:48:42.697Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "877",
+      "title": "Stone Game",
+      "slug": "stone-game",
+      "problemName": "0877-stone-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game/",
+      "folderPath": "0877-stone-game/",
+      "readmePath": "0877-stone-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0877-stone-game.py",
+          "path": "0877-stone-game/0877-stone-game.py",
+          "sha": "90cf68d496b3ddec87a6ac00085518da931f1d18",
+          "lastSyncedAt": "2026-08-02T13:56:34.635Z"
         }
       ]
     },
