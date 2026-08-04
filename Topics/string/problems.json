@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-07-31T03:23:17.497Z",
+  "updatedAt": "2026-08-04T08:38:51.193Z",
   "problems": [
     {
       "frontendId": "68",
@@ -23,6 +23,26 @@
           "path": "0068-text-justification/0068-text-justification.py",
           "sha": "bd40a0b72f1654ac39eb4b2a306c7abeb3a0b3d4",
           "lastSyncedAt": "2026-06-17T19:10:07.238Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "299",
+      "title": "Bulls and Cows",
+      "slug": "bulls-and-cows",
+      "problemName": "0299-bulls-and-cows",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/bulls-and-cows/",
+      "folderPath": "0299-bulls-and-cows/",
+      "readmePath": "0299-bulls-and-cows/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0299-bulls-and-cows.py",
+          "path": "0299-bulls-and-cows/0299-bulls-and-cows.py",
+          "sha": "e3f149c2cad24dac907ebe99ded0067722d875af",
+          "lastSyncedAt": "2026-08-04T08:38:51.193Z"
         }
       ]
     },
