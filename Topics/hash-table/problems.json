@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-04T08:53:23.850Z",
+  "updatedAt": "2026-08-04T08:57:26.418Z",
   "problems": [
     {
       "frontendId": "138",
@@ -282,7 +282,7 @@
           "filename": "1790-check-if-one-string-swap-can-make-strings-equal.py",
           "path": "1790-check-if-one-string-swap-can-make-strings-equal/1790-check-if-one-string-swap-can-make-strings-equal.py",
           "sha": "5f9db1912fb83425d981066ae38f041a66039a04",
-          "lastSyncedAt": "2026-08-04T08:53:23.850Z"
+          "lastSyncedAt": "2026-08-04T08:57:26.418Z"
         }
       ]
     },
