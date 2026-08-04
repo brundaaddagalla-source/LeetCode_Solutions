@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-04T05:42:46.910Z",
+  "updatedAt": "2026-08-04T05:44:58.870Z",
   "problems": [
     {
       "frontendId": "46",
@@ -643,6 +643,26 @@
           "path": "1929-concatenation-of-array/1929-concatenation-of-array.py",
           "sha": "30b1ce567543dcab90c0bb7171a514af1c481eb2",
           "lastSyncedAt": "2026-07-26T01:51:54.190Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "problemName": "3731-find-missing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+      "folderPath": "3731-find-missing-elements/",
+      "readmePath": "3731-find-missing-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3731-find-missing-elements.py",
+          "path": "3731-find-missing-elements/3731-find-missing-elements.py",
+          "sha": "b169c1e52186c75d14a01f80dd650a976ea4ec1d",
+          "lastSyncedAt": "2026-08-04T05:44:58.870Z"
         }
       ]
     }
