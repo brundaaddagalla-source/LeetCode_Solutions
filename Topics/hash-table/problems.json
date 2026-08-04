@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-07-31T03:23:17.497Z",
+  "updatedAt": "2026-08-04T05:44:58.870Z",
   "problems": [
     {
       "frontendId": "138",
@@ -263,6 +263,26 @@
           "path": "3518-smallest-palindromic-rearrangement-ii/3518-smallest-palindromic-rearrangement-ii.py",
           "sha": "828046fdc9645b45cd3870c9221b93ed6359e17f",
           "lastSyncedAt": "2026-07-29T08:35:41.792Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "problemName": "3731-find-missing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+      "folderPath": "3731-find-missing-elements/",
+      "readmePath": "3731-find-missing-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3731-find-missing-elements.py",
+          "path": "3731-find-missing-elements/3731-find-missing-elements.py",
+          "sha": "b169c1e52186c75d14a01f80dd650a976ea4ec1d",
+          "lastSyncedAt": "2026-08-04T05:44:58.870Z"
         }
       ]
     }
