@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-04T08:38:51.193Z",
+  "updatedAt": "2026-08-04T08:47:22.691Z",
   "problems": [
     {
       "frontendId": "68",
@@ -83,6 +83,26 @@
           "path": "0438-find-all-anagrams-in-a-string/0438-find-all-anagrams-in-a-string.py",
           "sha": "566ecdad935203cdcc27bab7712371d2ddfe1707",
           "lastSyncedAt": "2026-06-18T12:54:16.072Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "0451-sort-characters-by-frequency/",
+      "readmePath": "0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0451-sort-characters-by-frequency.py",
+          "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
+          "sha": "33ef9fe53593f1c91441a9b404e58d25a4932ab7",
+          "lastSyncedAt": "2026-08-04T08:47:22.691Z"
         }
       ]
     },
