@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-02T13:56:34.635Z",
+  "updatedAt": "2026-08-04T05:42:46.910Z",
   "problems": [
     {
       "frontendId": "46",
@@ -503,6 +503,26 @@
           "path": "1310-xor-queries-of-a-subarray/1310-xor-queries-of-a-subarray.py",
           "sha": "ecb6c9829d98ec4aa56b976b8d75b248f7d0278c",
           "lastSyncedAt": "2026-07-20T15:55:21.818Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1406",
+      "title": "Stone Game III",
+      "slug": "stone-game-iii",
+      "problemName": "1406-stone-game-iii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iii/",
+      "folderPath": "1406-stone-game-iii/",
+      "readmePath": "1406-stone-game-iii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1406-stone-game-iii.py",
+          "path": "1406-stone-game-iii/1406-stone-game-iii.py",
+          "sha": "32c2cadc6ea6dbd5435e3e84784e3606fe60d6f7",
+          "lastSyncedAt": "2026-08-04T05:42:46.910Z"
         }
       ]
     },
