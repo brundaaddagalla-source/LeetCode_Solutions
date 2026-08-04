@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 85 | 16 | 60 | 9 |
+| 86 | 17 | 60 | 9 |
 
 ## Activity
 
@@ -26,22 +26,22 @@
 | 2026-07-30 | 4 |
 | 2026-07-31 | 2 |
 | 2026-08-02 | 1 |
-| 2026-08-04 | 4 |
+| 2026-08-04 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 42 | 49% |
-| String | 23 | 27% |
-| Sorting | 20 | 24% |
-| Hash Table | 19 | 22% |
+| String | 24 | 28% |
+| Hash Table | 20 | 23% |
+| Sorting | 20 | 23% |
 | Greedy | 14 | 16% |
 | Math | 13 | 15% |
 | Two Pointers | 13 | 15% |
 | Linked List | 11 | 13% |
 | Stack | 10 | 12% |
-| Bit Manipulation | 9 | 11% |
+| Bit Manipulation | 9 | 10% |
 
 ## Topics
 
@@ -55,7 +55,7 @@
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
-| [Counting](Topics/counting/) | 6 |
+| [Counting](Topics/counting/) | 7 |
 | [Counting Sort](Topics/counting-sort/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 1 |
@@ -66,7 +66,7 @@
 | [Game Theory](Topics/game-theory/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Greedy](Topics/greedy/) | 12 |
-| [Hash Table](Topics/hash-table/) | 16 |
+| [Hash Table](Topics/hash-table/) | 17 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [Linked List](Topics/linked-list/) | 10 |
@@ -81,7 +81,7 @@
 | [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 15 |
 | [Stack](Topics/stack/) | 9 |
-| [String](Topics/string/) | 15 |
+| [String](Topics/string/) | 16 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 8 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
