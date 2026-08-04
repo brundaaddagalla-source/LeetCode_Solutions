@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-04T05:44:58.870Z",
+  "updatedAt": "2026-08-04T08:38:51.193Z",
   "problems": [
     {
       "frontendId": "138",
@@ -63,6 +63,26 @@
           "path": "0146-lru-cache/0146-lru-cache.py",
           "sha": "3c1b6eed9a1ecbcfc4e787c9db5fe7e01152d8ae",
           "lastSyncedAt": "2026-07-14T05:56:17.149Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "299",
+      "title": "Bulls and Cows",
+      "slug": "bulls-and-cows",
+      "problemName": "0299-bulls-and-cows",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/bulls-and-cows/",
+      "folderPath": "0299-bulls-and-cows/",
+      "readmePath": "0299-bulls-and-cows/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0299-bulls-and-cows.py",
+          "path": "0299-bulls-and-cows/0299-bulls-and-cows.py",
+          "sha": "e3f149c2cad24dac907ebe99ded0067722d875af",
+          "lastSyncedAt": "2026-08-04T08:38:51.193Z"
         }
       ]
     },
