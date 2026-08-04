@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-04T08:47:22.691Z",
+  "updatedAt": "2026-08-04T08:53:23.850Z",
   "problems": [
     {
       "frontendId": "138",
@@ -263,6 +263,26 @@
           "path": "1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.py",
           "sha": "27ee39e12ad005441cfd449e934e2778a3c80ebe",
           "lastSyncedAt": "2026-06-22T07:31:28.849Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1790",
+      "title": "Check if One String Swap Can Make Strings Equal",
+      "slug": "check-if-one-string-swap-can-make-strings-equal",
+      "problemName": "1790-check-if-one-string-swap-can-make-strings-equal",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/",
+      "folderPath": "1790-check-if-one-string-swap-can-make-strings-equal/",
+      "readmePath": "1790-check-if-one-string-swap-can-make-strings-equal/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1790-check-if-one-string-swap-can-make-strings-equal.py",
+          "path": "1790-check-if-one-string-swap-can-make-strings-equal/1790-check-if-one-string-swap-can-make-strings-equal.py",
+          "sha": "5f9db1912fb83425d981066ae38f041a66039a04",
+          "lastSyncedAt": "2026-08-04T08:53:23.850Z"
         }
       ]
     },
