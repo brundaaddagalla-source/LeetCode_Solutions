@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-04T05:42:46.910Z",
+  "updatedAt": "2026-08-07T18:17:12.640Z",
   "problems": [
     {
       "frontendId": "89",
@@ -203,6 +203,26 @@
           "path": "3014-minimum-number-of-pushes-to-type-word-i/3014-minimum-number-of-pushes-to-type-word-i.py",
           "sha": "ae3810190e1b4970e00fe30419e7c09a19a05ccd",
           "lastSyncedAt": "2026-07-30T02:54:14.583Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3348",
+      "title": "Smallest Divisible Digit Product II",
+      "slug": "smallest-divisible-digit-product-ii",
+      "problemName": "3348-smallest-divisible-digit-product-ii",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/",
+      "folderPath": "3348-smallest-divisible-digit-product-ii/",
+      "readmePath": "3348-smallest-divisible-digit-product-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3348-smallest-divisible-digit-product-ii.py",
+          "path": "3348-smallest-divisible-digit-product-ii/3348-smallest-divisible-digit-product-ii.py",
+          "sha": "69b1748c3187cb866c5086615e728363481a18f0",
+          "lastSyncedAt": "2026-08-07T18:17:12.640Z"
         }
       ]
     },
