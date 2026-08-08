@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-08-04T05:42:46.910Z",
+  "updatedAt": "2026-08-08T13:03:28.482Z",
   "problems": [
     {
       "frontendId": "55",
@@ -83,6 +83,26 @@
           "path": "1406-stone-game-iii/1406-stone-game-iii.py",
           "sha": "32c2cadc6ea6dbd5435e3e84784e3606fe60d6f7",
           "lastSyncedAt": "2026-08-04T05:42:46.910Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3302",
+      "title": "Find the Lexicographically Smallest Valid Sequence",
+      "slug": "find-the-lexicographically-smallest-valid-sequence",
+      "problemName": "3302-find-the-lexicographically-smallest-valid-sequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/",
+      "folderPath": "3302-find-the-lexicographically-smallest-valid-sequence/",
+      "readmePath": "3302-find-the-lexicographically-smallest-valid-sequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3302-find-the-lexicographically-smallest-valid-sequence.py",
+          "path": "3302-find-the-lexicographically-smallest-valid-sequence/3302-find-the-lexicographically-smallest-valid-sequence.py",
+          "sha": "099fd0e0584cffd37821af8caaa4b34aaeabe051",
+          "lastSyncedAt": "2026-08-08T13:03:28.482Z"
         }
       ]
     },
