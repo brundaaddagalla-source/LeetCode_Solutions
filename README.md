@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 87 | 17 | 61 | 9 |
+| 88 | 17 | 62 | 9 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 9 days | 24 |
+| 1 days | 9 days | 25 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-14 | 4 |
 | 2026-07-20 | 9 |
 | 2026-07-21 | 1 |
 | 2026-07-23 | 1 |
@@ -27,18 +26,19 @@
 | 2026-08-02 | 1 |
 | 2026-08-04 | 5 |
 | 2026-08-05 | 1 |
+| 2026-08-08 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 42 | 48% |
-| String | 24 | 28% |
+| String | 25 | 28% |
 | Hash Table | 20 | 23% |
 | Sorting | 20 | 23% |
-| Greedy | 14 | 16% |
+| Greedy | 15 | 17% |
+| Two Pointers | 14 | 16% |
 | Math | 13 | 15% |
-| Two Pointers | 13 | 15% |
 | Linked List | 11 | 13% |
 | Stack | 10 | 11% |
 | Bit Manipulation | 9 | 10% |
@@ -62,15 +62,15 @@
 | [Design](Topics/design/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 6 |
 | [Game Theory](Topics/game-theory/) | 2 |
 | [Graph Theory](Topics/graph/) | 1 |
-| [Greedy](Topics/greedy/) | 12 |
+| [Greedy](Topics/greedy/) | 13 |
 | [Hash Table](Topics/hash-table/) | 17 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [Linked List](Topics/linked-list/) | 10 |
-| [Math](Topics/math/) | 12 |
+| [Math](Topics/math/) | 13 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Minimax](Topics/minimax-algorithm/) | 1 |
@@ -81,8 +81,8 @@
 | [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 15 |
 | [Stack](Topics/stack/) | 9 |
-| [String](Topics/string/) | 16 |
+| [String](Topics/string/) | 17 |
 | [Tree](Topics/tree/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 8 |
+| [Two Pointers](Topics/two-pointers/) | 9 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 1 |
 <!---LeetHub Summary End-->
