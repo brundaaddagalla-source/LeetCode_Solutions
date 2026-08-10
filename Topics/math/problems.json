@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-07T18:17:12.640Z",
+  "updatedAt": "2026-08-10T14:52:36.832Z",
   "problems": [
     {
       "frontendId": "89",
@@ -163,6 +163,26 @@
           "path": "1406-stone-game-iii/1406-stone-game-iii.py",
           "sha": "32c2cadc6ea6dbd5435e3e84784e3606fe60d6f7",
           "lastSyncedAt": "2026-08-04T05:42:46.910Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1510",
+      "title": "Stone Game IV",
+      "slug": "stone-game-iv",
+      "problemName": "1510-stone-game-iv",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-iv/",
+      "folderPath": "1510-stone-game-iv/",
+      "readmePath": "1510-stone-game-iv/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1510-stone-game-iv.py",
+          "path": "1510-stone-game-iv/1510-stone-game-iv.py",
+          "sha": "70fc77f2f37cd7b00e1b67fcbcaa14cfe0a44efa",
+          "lastSyncedAt": "2026-08-10T14:52:36.832Z"
         }
       ]
     },
