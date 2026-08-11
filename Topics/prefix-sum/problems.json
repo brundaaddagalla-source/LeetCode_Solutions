@@ -4,7 +4,7 @@
     "slug": "prefix-sum",
     "name": "Prefix Sum"
   },
-  "updatedAt": "2026-08-11T16:39:46.740Z",
+  "updatedAt": "2026-08-11T16:39:55.585Z",
   "problems": [
     {
       "frontendId": "209",
@@ -42,7 +42,7 @@
           "filename": "0304-range-sum-query-2d-immutable.py",
           "path": "0304-range-sum-query-2d-immutable/0304-range-sum-query-2d-immutable.py",
           "sha": "c4f84012dabdc77edade310f8711da84ddc655fc",
-          "lastSyncedAt": "2026-08-11T16:39:46.740Z"
+          "lastSyncedAt": "2026-08-11T16:39:55.585Z"
         }
       ]
     },
