@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "pigeonhole-principle",
+    "name": "Pigeonhole Principle"
+  },
+  "updatedAt": "2026-08-12T04:58:28.551Z",
+  "problems": [
+    {
+      "frontendId": "523",
+      "title": "Continuous Subarray Sum",
+      "slug": "continuous-subarray-sum",
+      "problemName": "0523-continuous-subarray-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/continuous-subarray-sum/",
+      "folderPath": "0523-continuous-subarray-sum/",
+      "readmePath": "0523-continuous-subarray-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0523-continuous-subarray-sum.py",
+          "path": "0523-continuous-subarray-sum/0523-continuous-subarray-sum.py",
+          "sha": "699676bfb11be129f18991d775afef6aefd956af",
+          "lastSyncedAt": "2026-08-12T04:58:28.551Z"
+        }
+      ]
+    }
+  ]
+}
