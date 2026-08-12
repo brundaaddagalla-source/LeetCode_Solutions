@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-12T03:30:17.479Z",
+  "updatedAt": "2026-08-12T04:58:28.551Z",
   "problems": [
     {
       "frontendId": "138",
@@ -163,6 +163,26 @@
           "path": "0496-next-greater-element-i/0496-next-greater-element-i.py",
           "sha": "536e98521bab02c051df7d39a4ad5a2ffb806726",
           "lastSyncedAt": "2026-06-21T12:40:36.770Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "523",
+      "title": "Continuous Subarray Sum",
+      "slug": "continuous-subarray-sum",
+      "problemName": "0523-continuous-subarray-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/continuous-subarray-sum/",
+      "folderPath": "0523-continuous-subarray-sum/",
+      "readmePath": "0523-continuous-subarray-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0523-continuous-subarray-sum.py",
+          "path": "0523-continuous-subarray-sum/0523-continuous-subarray-sum.py",
+          "sha": "699676bfb11be129f18991d775afef6aefd956af",
+          "lastSyncedAt": "2026-08-12T04:58:28.551Z"
         }
       ]
     },
