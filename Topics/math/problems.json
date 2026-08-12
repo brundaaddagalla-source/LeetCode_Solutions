@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-10T14:52:36.832Z",
+  "updatedAt": "2026-08-12T04:58:28.551Z",
   "problems": [
     {
       "frontendId": "89",
@@ -83,6 +83,26 @@
           "path": "0445-add-two-numbers-ii/0445-add-two-numbers-ii.py",
           "sha": "79f7c9c8885d48139e0efe25d1368d4698f7ea83",
           "lastSyncedAt": "2026-06-19T07:16:23.839Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "523",
+      "title": "Continuous Subarray Sum",
+      "slug": "continuous-subarray-sum",
+      "problemName": "0523-continuous-subarray-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/continuous-subarray-sum/",
+      "folderPath": "0523-continuous-subarray-sum/",
+      "readmePath": "0523-continuous-subarray-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0523-continuous-subarray-sum.py",
+          "path": "0523-continuous-subarray-sum/0523-continuous-subarray-sum.py",
+          "sha": "699676bfb11be129f18991d775afef6aefd956af",
+          "lastSyncedAt": "2026-08-12T04:58:28.551Z"
         }
       ]
     },
