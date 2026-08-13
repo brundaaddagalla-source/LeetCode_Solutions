@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-08-08T13:03:28.482Z",
+  "updatedAt": "2026-08-13T03:48:53.981Z",
   "problems": [
     {
       "frontendId": "68",
@@ -243,6 +243,26 @@
           "path": "1790-check-if-one-string-swap-can-make-strings-equal/1790-check-if-one-string-swap-can-make-strings-equal.py",
           "sha": "5f9db1912fb83425d981066ae38f041a66039a04",
           "lastSyncedAt": "2026-08-04T08:57:26.418Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2213",
+      "title": "Longest Substring of One Repeating Character",
+      "slug": "longest-substring-of-one-repeating-character",
+      "problemName": "2213-longest-substring-of-one-repeating-character",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-of-one-repeating-character/",
+      "folderPath": "2213-longest-substring-of-one-repeating-character/",
+      "readmePath": "2213-longest-substring-of-one-repeating-character/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2213-longest-substring-of-one-repeating-character.py",
+          "path": "2213-longest-substring-of-one-repeating-character/2213-longest-substring-of-one-repeating-character.py",
+          "sha": "9b76b960c782ffd5780c3bcca7789ba09755f40d",
+          "lastSyncedAt": "2026-08-13T03:48:53.981Z"
         }
       ]
     },
