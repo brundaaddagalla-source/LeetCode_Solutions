@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-12T04:58:28.551Z",
+  "updatedAt": "2026-08-13T04:01:52.938Z",
   "problems": [
     {
       "frontendId": "138",
@@ -183,6 +183,26 @@
           "path": "0523-continuous-subarray-sum/0523-continuous-subarray-sum.py",
           "sha": "699676bfb11be129f18991d775afef6aefd956af",
           "lastSyncedAt": "2026-08-12T04:58:28.551Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "525",
+      "title": "Contiguous Array",
+      "slug": "contiguous-array",
+      "problemName": "0525-contiguous-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/contiguous-array/",
+      "folderPath": "0525-contiguous-array/",
+      "readmePath": "0525-contiguous-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0525-contiguous-array.py",
+          "path": "0525-contiguous-array/0525-contiguous-array.py",
+          "sha": "a64af386bb29fe45b739f73aab4f3126f51de20b",
+          "lastSyncedAt": "2026-08-13T04:01:52.938Z"
         }
       ]
     },
