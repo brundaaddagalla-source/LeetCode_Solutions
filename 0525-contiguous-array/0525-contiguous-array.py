@@ -1,0 +1,15 @@
+class Solution:
+    def findMaxLength(self, nums: List[int]) -> int:
+        d = {0: -1}
+        count = 0
+        maxi = 0
+        for i in range(len(nums)):
+            if nums[i] == 0:
+                count -= 1
+            else:
+                count += 1
+            if count in d:
+                maxi = max(maxi, i - d[count])
+            else:
+                d[count] = i
+        return maxi
