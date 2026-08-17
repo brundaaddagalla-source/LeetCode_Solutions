@@ -4,7 +4,7 @@
     "slug": "zero-sum-game",
     "name": "Zero-Sum Game"
   },
-  "updatedAt": "2026-08-04T05:42:46.910Z",
+  "updatedAt": "2026-08-17T02:57:50.760Z",
   "problems": [
     {
       "frontendId": "1406",
@@ -23,6 +23,26 @@
           "path": "1406-stone-game-iii/1406-stone-game-iii.py",
           "sha": "32c2cadc6ea6dbd5435e3e84784e3606fe60d6f7",
           "lastSyncedAt": "2026-08-04T05:42:46.910Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2029",
+      "title": "Stone Game IX",
+      "slug": "stone-game-ix",
+      "problemName": "2029-stone-game-ix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ix/",
+      "folderPath": "2029-stone-game-ix/",
+      "readmePath": "2029-stone-game-ix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2029-stone-game-ix.py",
+          "path": "2029-stone-game-ix/2029-stone-game-ix.py",
+          "sha": "ecad7cd9fc5494adf683d7e1f32d92ff713c7463",
+          "lastSyncedAt": "2026-08-17T02:57:50.760Z"
         }
       ]
     }
