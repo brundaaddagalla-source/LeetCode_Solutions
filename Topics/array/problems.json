@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-13T04:01:52.938Z",
+  "updatedAt": "2026-08-17T02:57:50.760Z",
   "problems": [
     {
       "frontendId": "46",
@@ -703,6 +703,26 @@
           "path": "1929-concatenation-of-array/1929-concatenation-of-array.py",
           "sha": "30b1ce567543dcab90c0bb7171a514af1c481eb2",
           "lastSyncedAt": "2026-07-26T01:51:54.190Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2029",
+      "title": "Stone Game IX",
+      "slug": "stone-game-ix",
+      "problemName": "2029-stone-game-ix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ix/",
+      "folderPath": "2029-stone-game-ix/",
+      "readmePath": "2029-stone-game-ix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2029-stone-game-ix.py",
+          "path": "2029-stone-game-ix/2029-stone-game-ix.py",
+          "sha": "ecad7cd9fc5494adf683d7e1f32d92ff713c7463",
+          "lastSyncedAt": "2026-08-17T02:57:50.760Z"
         }
       ]
     },
