@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 94 | 19 | 66 | 9 |
+| 95 | 19 | 66 | 10 |
 
 ## Activity
 
@@ -26,18 +26,18 @@
 | 2026-08-11 | 2 |
 | 2026-08-12 | 2 |
 | 2026-08-14 | 1 |
-| 2026-08-17 | 1 |
+| 2026-08-17 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 47 | 50% |
-| String | 26 | 28% |
-| Hash Table | 24 | 26% |
+| Array | 48 | 51% |
+| String | 26 | 27% |
+| Hash Table | 24 | 25% |
 | Sorting | 21 | 22% |
 | Greedy | 16 | 17% |
-| Math | 15 | 16% |
+| Math | 16 | 17% |
 | Two Pointers | 14 | 15% |
 | Linked List | 11 | 12% |
 | Counting | 10 | 11% |
@@ -47,7 +47,7 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 40 |
+| [Array](Topics/array/) | 41 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -62,15 +62,15 @@
 | [Design](Topics/design/) | 3 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 6 |
-| [Game Theory](Topics/game-theory/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
+| [Game Theory](Topics/game-theory/) | 4 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 14 |
 | [Hash Table](Topics/hash-table/) | 22 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [Linked List](Topics/linked-list/) | 10 |
-| [Math](Topics/math/) | 16 |
+| [Math](Topics/math/) | 17 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Minimax](Topics/minimax-algorithm/) | 2 |
