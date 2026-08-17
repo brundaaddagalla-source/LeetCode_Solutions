@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-17T02:57:50.760Z",
+  "updatedAt": "2026-08-17T02:58:23.025Z",
   "problems": [
     {
       "frontendId": "46",
@@ -623,6 +623,26 @@
           "path": "1470-shuffle-the-array/1470-shuffle-the-array.py",
           "sha": "32e5e118f46ad85b13842f74fa509a2e18712006",
           "lastSyncedAt": "2026-07-27T06:47:31.344Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1563",
+      "title": "Stone Game V",
+      "slug": "stone-game-v",
+      "problemName": "1563-stone-game-v",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-v/",
+      "folderPath": "1563-stone-game-v/",
+      "readmePath": "1563-stone-game-v/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1563-stone-game-v.py",
+          "path": "1563-stone-game-v/1563-stone-game-v.py",
+          "sha": "2ccf20dedf808b27358baff6ccb6504114e9bc83",
+          "lastSyncedAt": "2026-08-17T02:58:23.025Z"
         }
       ]
     },
