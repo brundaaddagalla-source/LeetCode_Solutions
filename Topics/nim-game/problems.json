@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "nim-game",
+    "name": "Nim Game"
+  },
+  "updatedAt": "2026-08-17T02:57:50.760Z",
+  "problems": [
+    {
+      "frontendId": "2029",
+      "title": "Stone Game IX",
+      "slug": "stone-game-ix",
+      "problemName": "2029-stone-game-ix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/stone-game-ix/",
+      "folderPath": "2029-stone-game-ix/",
+      "readmePath": "2029-stone-game-ix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2029-stone-game-ix.py",
+          "path": "2029-stone-game-ix/2029-stone-game-ix.py",
+          "sha": "ecad7cd9fc5494adf683d7e1f32d92ff713c7463",
+          "lastSyncedAt": "2026-08-17T02:57:50.760Z"
+        }
+      ]
+    }
+  ]
+}
