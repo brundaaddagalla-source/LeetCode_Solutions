@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 98 | 21 | 67 | 10 |
+| 99 | 22 | 67 | 10 |
 
 ## Activity
 
@@ -26,18 +26,18 @@
 | 2026-08-12 | 2 |
 | 2026-08-14 | 1 |
 | 2026-08-17 | 2 |
-| 2026-08-18 | 3 |
+| 2026-08-18 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 49 | 50% |
-| String | 28 | 29% |
-| Hash Table | 26 | 27% |
+| Array | 49 | 49% |
+| String | 29 | 29% |
+| Hash Table | 26 | 26% |
 | Sorting | 22 | 22% |
-| Greedy | 16 | 16% |
-| Math | 16 | 16% |
+| Greedy | 17 | 17% |
+| Math | 17 | 17% |
 | Two Pointers | 14 | 14% |
 | Counting | 11 | 11% |
 | Linked List | 11 | 11% |
@@ -66,12 +66,12 @@
 | [Dynamic Programming](Topics/dynamic-programming/) | 7 |
 | [Game Theory](Topics/game-theory/) | 4 |
 | [Graph Theory](Topics/graph/) | 1 |
-| [Greedy](Topics/greedy/) | 14 |
+| [Greedy](Topics/greedy/) | 15 |
 | [Hash Table](Topics/hash-table/) | 24 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [Linked List](Topics/linked-list/) | 10 |
-| [Math](Topics/math/) | 17 |
+| [Math](Topics/math/) | 18 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Minimax](Topics/minimax-algorithm/) | 2 |
@@ -86,7 +86,7 @@
 | [Sliding Window](Topics/sliding-window/) | 7 |
 | [Sorting](Topics/sorting/) | 17 |
 | [Stack](Topics/stack/) | 10 |
-| [String](Topics/string/) | 21 |
+| [String](Topics/string/) | 22 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
