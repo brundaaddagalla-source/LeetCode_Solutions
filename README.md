@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 100 | 23 | 67 | 10 |
+| 101 | 24 | 67 | 10 |
 
 ## Activity
 
@@ -26,7 +26,7 @@
 | 2026-08-12 | 2 |
 | 2026-08-14 | 1 |
 | 2026-08-17 | 2 |
-| 2026-08-18 | 5 |
+| 2026-08-18 | 6 |
 
 ## Top Tags
 
@@ -36,8 +36,8 @@
 | String | 30 | 30% |
 | Hash Table | 26 | 26% |
 | Sorting | 22 | 22% |
+| Math | 18 | 18% |
 | Greedy | 17 | 17% |
-| Math | 17 | 17% |
 | Two Pointers | 14 | 14% |
 | Counting | 11 | 11% |
 | Linked List | 11 | 11% |
@@ -63,7 +63,7 @@
 | [Design](Topics/design/) | 3 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 8 |
 | [Game Theory](Topics/game-theory/) | 4 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 15 |
@@ -71,8 +71,9 @@
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [Linked List](Topics/linked-list/) | 10 |
-| [Math](Topics/math/) | 18 |
+| [Math](Topics/math/) | 19 |
 | [Matrix](Topics/matrix/) | 2 |
+| [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Minimax](Topics/minimax-algorithm/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 4 |
@@ -80,7 +81,7 @@
 | [ordered-set](Topics/ordered-set/) | 0 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 8 |
-| [Recursion](Topics/recursion/) | 1 |
+| [Recursion](Topics/recursion/) | 2 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 7 |
