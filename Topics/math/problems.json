@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-18T08:41:02.393Z",
+  "updatedAt": "2026-08-18T12:54:51.216Z",
   "problems": [
     {
       "frontendId": "89",
@@ -83,6 +83,26 @@
           "path": "0445-add-two-numbers-ii/0445-add-two-numbers-ii.py",
           "sha": "79f7c9c8885d48139e0efe25d1368d4698f7ea83",
           "lastSyncedAt": "2026-06-19T07:16:23.839Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "0509-fibonacci-number/",
+      "readmePath": "0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0509-fibonacci-number.py",
+          "path": "0509-fibonacci-number/0509-fibonacci-number.py",
+          "sha": "364817f6b367c56b473744caaeedf2347cc6ffc6",
+          "lastSyncedAt": "2026-08-18T12:54:51.216Z"
         }
       ]
     },
