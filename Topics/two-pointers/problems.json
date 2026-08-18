@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-18T13:16:12.042Z",
+  "updatedAt": "2026-08-18T13:27:08.480Z",
   "problems": [
     {
       "frontendId": "26",
@@ -123,6 +123,26 @@
           "path": "0165-compare-version-numbers/0165-compare-version-numbers.py",
           "sha": "9952e2b8d97f5974b08a13207de10cf481fd39bb",
           "lastSyncedAt": "2026-06-17T19:10:13.218Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "0283-move-zeroes/",
+      "readmePath": "0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0283-move-zeroes.py",
+          "path": "0283-move-zeroes/0283-move-zeroes.py",
+          "sha": "b4f247a04c297dc046d8d69d32c73ee42135db95",
+          "lastSyncedAt": "2026-08-18T13:27:08.480Z"
         }
       ]
     },
