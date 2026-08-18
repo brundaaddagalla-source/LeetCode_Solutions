@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-17T02:57:50.760Z",
+  "updatedAt": "2026-08-18T08:41:02.393Z",
   "problems": [
     {
       "frontendId": "55",
@@ -203,6 +203,26 @@
           "path": "1833-maximum-ice-cream-bars/1833-maximum-ice-cream-bars.py",
           "sha": "9a6532bdb0b1eeb96bdf7f9b8f931d19471081ab",
           "lastSyncedAt": "2026-06-21T12:23:40.538Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1903",
+      "title": "Largest Odd Number in String",
+      "slug": "largest-odd-number-in-string",
+      "problemName": "1903-largest-odd-number-in-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-odd-number-in-string/",
+      "folderPath": "1903-largest-odd-number-in-string/",
+      "readmePath": "1903-largest-odd-number-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1903-largest-odd-number-in-string.py",
+          "path": "1903-largest-odd-number-in-string/1903-largest-odd-number-in-string.py",
+          "sha": "a832445dc0b043871b45ad07b893f71a53c4e0e2",
+          "lastSyncedAt": "2026-08-18T08:41:02.393Z"
         }
       ]
     },
