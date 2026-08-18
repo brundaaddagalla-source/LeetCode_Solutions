@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-17T02:58:23.025Z",
+  "updatedAt": "2026-08-18T06:58:39.525Z",
   "problems": [
     {
       "frontendId": "89",
@@ -62,7 +62,7 @@
           "filename": "0371-sum-of-two-integers.py",
           "path": "0371-sum-of-two-integers/0371-sum-of-two-integers.py",
           "sha": "4119a0696039e3535cf7ab771cd20dcf223fa937",
-          "lastSyncedAt": "2026-07-20T05:53:50.288Z"
+          "lastSyncedAt": "2026-08-18T06:58:39.525Z"
         }
       ]
     },
