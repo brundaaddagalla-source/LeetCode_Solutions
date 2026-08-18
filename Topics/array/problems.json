@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-18T13:16:12.042Z",
+  "updatedAt": "2026-08-18T13:27:08.480Z",
   "problems": [
     {
       "frontendId": "14",
@@ -263,6 +263,26 @@
           "path": "0260-single-number-iii/0260-single-number-iii.py",
           "sha": "639376ba1118a6b397219fc59e4bae7106d071a7",
           "lastSyncedAt": "2026-07-20T05:05:51.156Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "0283-move-zeroes/",
+      "readmePath": "0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0283-move-zeroes.py",
+          "path": "0283-move-zeroes/0283-move-zeroes.py",
+          "sha": "b4f247a04c297dc046d8d69d32c73ee42135db95",
+          "lastSyncedAt": "2026-08-18T13:27:08.480Z"
         }
       ]
     },
