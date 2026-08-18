@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-14T12:36:40.141Z",
+  "updatedAt": "2026-08-18T06:07:38.684Z",
   "problems": [
     {
       "frontendId": "138",
@@ -403,6 +403,26 @@
           "path": "3090-maximum-length-substring-with-two-occurrences/3090-maximum-length-substring-with-two-occurrences.py",
           "sha": "3571a94672eed97f1a07eb096b4cea05098416bc",
           "lastSyncedAt": "2026-08-14T12:36:40.141Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3471",
+      "title": "Find the Largest Almost Missing Integer",
+      "slug": "find-the-largest-almost-missing-integer",
+      "problemName": "3471-find-the-largest-almost-missing-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-largest-almost-missing-integer/",
+      "folderPath": "3471-find-the-largest-almost-missing-integer/",
+      "readmePath": "3471-find-the-largest-almost-missing-integer/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3471-find-the-largest-almost-missing-integer.py",
+          "path": "3471-find-the-largest-almost-missing-integer/3471-find-the-largest-almost-missing-integer.py",
+          "sha": "a13a0b7733866f5b6e2d0698c7e3b21971117e92",
+          "lastSyncedAt": "2026-08-18T06:07:38.684Z"
         }
       ]
     },
