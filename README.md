@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 97 | 20 | 67 | 10 |
+| 98 | 21 | 67 | 10 |
 
 ## Activity
 
@@ -26,22 +26,22 @@
 | 2026-08-12 | 2 |
 | 2026-08-14 | 1 |
 | 2026-08-17 | 2 |
-| 2026-08-18 | 2 |
+| 2026-08-18 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 49 | 51% |
-| String | 27 | 28% |
+| Array | 49 | 50% |
+| String | 28 | 29% |
 | Hash Table | 26 | 27% |
-| Sorting | 22 | 23% |
+| Sorting | 22 | 22% |
 | Greedy | 16 | 16% |
 | Math | 16 | 16% |
 | Two Pointers | 14 | 14% |
 | Counting | 11 | 11% |
 | Linked List | 11 | 11% |
-| Stack | 10 | 10% |
+| Stack | 11 | 11% |
 
 ## Topics
 
@@ -52,6 +52,7 @@
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 10 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 1 |
@@ -84,8 +85,8 @@
 | [Simulation](Topics/simulation/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 7 |
 | [Sorting](Topics/sorting/) | 17 |
-| [Stack](Topics/stack/) | 9 |
-| [String](Topics/string/) | 20 |
+| [Stack](Topics/stack/) | 10 |
+| [String](Topics/string/) | 21 |
 | [Tree](Topics/tree/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
