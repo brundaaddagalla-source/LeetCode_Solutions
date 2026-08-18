@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 99 | 22 | 67 | 10 |
+| 100 | 23 | 67 | 10 |
 
 ## Activity
 
@@ -26,14 +26,14 @@
 | 2026-08-12 | 2 |
 | 2026-08-14 | 1 |
 | 2026-08-17 | 2 |
-| 2026-08-18 | 4 |
+| 2026-08-18 | 5 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 49 | 49% |
-| String | 29 | 29% |
+| Array | 50 | 50% |
+| String | 30 | 30% |
 | Hash Table | 26 | 26% |
 | Sorting | 22 | 22% |
 | Greedy | 17 | 17% |
@@ -47,7 +47,7 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 42 |
+| [Array](Topics/array/) | 43 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -86,8 +86,9 @@
 | [Sliding Window](Topics/sliding-window/) | 7 |
 | [Sorting](Topics/sorting/) | 17 |
 | [Stack](Topics/stack/) | 10 |
-| [String](Topics/string/) | 22 |
+| [String](Topics/string/) | 23 |
 | [Tree](Topics/tree/) | 2 |
+| [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->
