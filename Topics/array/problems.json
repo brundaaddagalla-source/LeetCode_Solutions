@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-19T14:04:34.174Z",
+  "updatedAt": "2026-08-19T14:05:24.351Z",
   "problems": [
     {
       "frontendId": "14",
@@ -642,7 +642,7 @@
           "filename": "1386-cinema-seat-allocation.py",
           "path": "1386-cinema-seat-allocation/1386-cinema-seat-allocation.py",
           "sha": "6c5bce59c6b458a860572cc0a14de74bdf0ae45d",
-          "lastSyncedAt": "2026-08-19T14:04:34.174Z"
+          "lastSyncedAt": "2026-08-19T14:05:24.351Z"
         }
       ]
     },
