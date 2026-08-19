@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 103 | 26 | 67 | 10 |
+| 104 | 26 | 68 | 10 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 9 days | 30 |
+| 3 days | 9 days | 31 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-27 | 2 |
 | 2026-07-28 | 4 |
 | 2026-07-29 | 1 |
 | 2026-07-30 | 4 |
@@ -27,18 +26,19 @@
 | 2026-08-14 | 1 |
 | 2026-08-17 | 2 |
 | 2026-08-18 | 8 |
+| 2026-08-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 52 | 50% |
+| Array | 53 | 51% |
 | String | 30 | 29% |
-| Hash Table | 26 | 25% |
+| Hash Table | 27 | 26% |
 | Sorting | 22 | 21% |
+| Greedy | 18 | 17% |
 | Math | 18 | 17% |
-| Greedy | 17 | 17% |
-| Two Pointers | 16 | 16% |
+| Two Pointers | 16 | 15% |
 | Counting | 11 | 11% |
 | Linked List | 11 | 11% |
 | Stack | 11 | 11% |
@@ -47,11 +47,11 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 45 |
+| [Array](Topics/array/) | 46 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 10 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 11 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
@@ -66,8 +66,8 @@
 | [Dynamic Programming](Topics/dynamic-programming/) | 8 |
 | [Game Theory](Topics/game-theory/) | 4 |
 | [Graph Theory](Topics/graph/) | 1 |
-| [Greedy](Topics/greedy/) | 15 |
-| [Hash Table](Topics/hash-table/) | 24 |
+| [Greedy](Topics/greedy/) | 16 |
+| [Hash Table](Topics/hash-table/) | 25 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [Linked List](Topics/linked-list/) | 10 |
