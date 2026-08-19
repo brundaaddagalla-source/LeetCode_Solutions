@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-18T08:41:02.393Z",
+  "updatedAt": "2026-08-19T14:04:34.174Z",
   "problems": [
     {
       "frontendId": "55",
@@ -183,6 +183,26 @@
           "path": "0921-minimum-add-to-make-parentheses-valid/0921-minimum-add-to-make-parentheses-valid.py",
           "sha": "26eca0eea49c0b985d35f0cd989a26d95f634f2d",
           "lastSyncedAt": "2026-06-18T08:00:32.124Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1386",
+      "title": "Cinema Seat Allocation",
+      "slug": "cinema-seat-allocation",
+      "problemName": "1386-cinema-seat-allocation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cinema-seat-allocation/",
+      "folderPath": "1386-cinema-seat-allocation/",
+      "readmePath": "1386-cinema-seat-allocation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1386-cinema-seat-allocation.py",
+          "path": "1386-cinema-seat-allocation/1386-cinema-seat-allocation.py",
+          "sha": "6c5bce59c6b458a860572cc0a14de74bdf0ae45d",
+          "lastSyncedAt": "2026-08-19T14:04:34.174Z"
         }
       ]
     },
