@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-08-18T06:57:29.270Z",
+  "updatedAt": "2026-08-19T14:04:34.174Z",
   "problems": [
     {
       "frontendId": "138",
@@ -303,6 +303,26 @@
           "path": "1189-maximum-number-of-balloons/1189-maximum-number-of-balloons.py",
           "sha": "27ee39e12ad005441cfd449e934e2778a3c80ebe",
           "lastSyncedAt": "2026-06-22T07:31:28.849Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1386",
+      "title": "Cinema Seat Allocation",
+      "slug": "cinema-seat-allocation",
+      "problemName": "1386-cinema-seat-allocation",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/cinema-seat-allocation/",
+      "folderPath": "1386-cinema-seat-allocation/",
+      "readmePath": "1386-cinema-seat-allocation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1386-cinema-seat-allocation.py",
+          "path": "1386-cinema-seat-allocation/1386-cinema-seat-allocation.py",
+          "sha": "6c5bce59c6b458a860572cc0a14de74bdf0ae45d",
+          "lastSyncedAt": "2026-08-19T14:04:34.174Z"
         }
       ]
     },
