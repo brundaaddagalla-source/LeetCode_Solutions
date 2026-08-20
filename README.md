@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 105 | 27 | 68 | 10 |
+| 106 | 28 | 68 | 10 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 9 days | 31 |
+| 4 days | 9 days | 32 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-28 | 4 |
 | 2026-07-29 | 1 |
 | 2026-07-30 | 4 |
 | 2026-07-31 | 2 |
@@ -27,14 +26,15 @@
 | 2026-08-17 | 2 |
 | 2026-08-18 | 8 |
 | 2026-08-19 | 2 |
+| 2026-08-20 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 53 | 50% |
-| String | 31 | 30% |
-| Hash Table | 27 | 26% |
+| Array | 54 | 51% |
+| String | 31 | 29% |
+| Hash Table | 27 | 25% |
 | Sorting | 22 | 21% |
 | Greedy | 18 | 17% |
 | Math | 18 | 17% |
@@ -47,7 +47,7 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 46 |
+| [Array](Topics/array/) | 47 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 2 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -83,7 +83,7 @@
 | [Prefix Sum](Topics/prefix-sum/) | 8 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
-| [Simulation](Topics/simulation/) | 3 |
+| [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 7 |
 | [Sorting](Topics/sorting/) | 17 |
 | [Stack](Topics/stack/) | 11 |
