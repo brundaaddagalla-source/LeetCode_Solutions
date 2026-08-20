@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-07-26T01:51:54.190Z",
+  "updatedAt": "2026-08-20T05:35:09.600Z",
   "problems": [
     {
       "frontendId": "68",
@@ -63,6 +63,26 @@
           "path": "1929-concatenation-of-array/1929-concatenation-of-array.py",
           "sha": "30b1ce567543dcab90c0bb7171a514af1c481eb2",
           "lastSyncedAt": "2026-07-26T01:51:54.190Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3069",
+      "title": "Distribute Elements Into Two Arrays I",
+      "slug": "distribute-elements-into-two-arrays-i",
+      "problemName": "3069-distribute-elements-into-two-arrays-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i/",
+      "folderPath": "3069-distribute-elements-into-two-arrays-i/",
+      "readmePath": "3069-distribute-elements-into-two-arrays-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3069-distribute-elements-into-two-arrays-i.py",
+          "path": "3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.py",
+          "sha": "950bb587064ee8fa6eefc9b7c1c5a1764eb82cf3",
+          "lastSyncedAt": "2026-08-20T05:35:09.600Z"
         }
       ]
     }
