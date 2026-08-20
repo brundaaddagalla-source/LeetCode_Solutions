@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-19T14:05:24.351Z",
+  "updatedAt": "2026-08-20T05:35:09.600Z",
   "problems": [
     {
       "frontendId": "14",
@@ -883,6 +883,26 @@
           "path": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum/2996-smallest-missing-integer-greater-than-sequential-prefix-sum.py",
           "sha": "624e8fa1b254da3580aac015fd94a99b5ba8152a",
           "lastSyncedAt": "2026-08-11T04:52:26.613Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3069",
+      "title": "Distribute Elements Into Two Arrays I",
+      "slug": "distribute-elements-into-two-arrays-i",
+      "problemName": "3069-distribute-elements-into-two-arrays-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i/",
+      "folderPath": "3069-distribute-elements-into-two-arrays-i/",
+      "readmePath": "3069-distribute-elements-into-two-arrays-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3069-distribute-elements-into-two-arrays-i.py",
+          "path": "3069-distribute-elements-into-two-arrays-i/3069-distribute-elements-into-two-arrays-i.py",
+          "sha": "950bb587064ee8fa6eefc9b7c1c5a1764eb82cf3",
+          "lastSyncedAt": "2026-08-20T05:35:09.600Z"
         }
       ]
     },
