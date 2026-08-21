@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-08-18T12:54:51.216Z",
+  "updatedAt": "2026-08-21T15:27:04.745Z",
   "problems": [
     {
       "frontendId": "89",
@@ -323,6 +323,26 @@
           "path": "3014-minimum-number-of-pushes-to-type-word-i/3014-minimum-number-of-pushes-to-type-word-i.py",
           "sha": "ae3810190e1b4970e00fe30419e7c09a19a05ccd",
           "lastSyncedAt": "2026-07-30T02:54:14.583Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3116",
+      "title": "Kth Smallest Amount With Single Denomination Combination",
+      "slug": "kth-smallest-amount-with-single-denomination-combination",
+      "problemName": "3116-kth-smallest-amount-with-single-denomination-combination",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/",
+      "folderPath": "3116-kth-smallest-amount-with-single-denomination-combination/",
+      "readmePath": "3116-kth-smallest-amount-with-single-denomination-combination/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3116-kth-smallest-amount-with-single-denomination-combination.py",
+          "path": "3116-kth-smallest-amount-with-single-denomination-combination/3116-kth-smallest-amount-with-single-denomination-combination.py",
+          "sha": "4b27df641e1e05b0ab0cba7f3fc83d84e9805bb7",
+          "lastSyncedAt": "2026-08-21T15:27:04.745Z"
         }
       ]
     },
