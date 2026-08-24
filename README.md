@@ -3,18 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 106 | 28 | 68 | 10 |
+| 108 | 28 | 69 | 11 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 9 days | 32 |
+| 1 days | 9 days | 34 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-07-29 | 1 |
-| 2026-07-30 | 4 |
 | 2026-07-31 | 2 |
 | 2026-08-02 | 1 |
 | 2026-08-04 | 5 |
@@ -27,35 +25,37 @@
 | 2026-08-18 | 8 |
 | 2026-08-19 | 2 |
 | 2026-08-20 | 1 |
+| 2026-08-21 | 1 |
+| 2026-08-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 54 | 51% |
-| String | 31 | 29% |
+| Array | 55 | 51% |
+| String | 32 | 30% |
 | Hash Table | 27 | 25% |
-| Sorting | 22 | 21% |
-| Greedy | 18 | 17% |
-| Math | 18 | 17% |
+| Sorting | 22 | 20% |
+| Math | 20 | 19% |
+| Greedy | 19 | 18% |
 | Two Pointers | 16 | 15% |
 | Stack | 12 | 11% |
+| Bit Manipulation | 11 | 10% |
 | Counting | 11 | 10% |
-| Linked List | 11 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 47 |
+| [Array](Topics/array/) | 48 |
 | [Backtracking](Topics/backtracking/) | 5 |
-| [Binary Search](Topics/binary-search/) | 2 |
+| [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
-| [Bit Manipulation](Topics/bit-manipulation/) | 11 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 12 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
-| [Combinatorics](Topics/combinatorics/) | 1 |
+| [Combinatorics](Topics/combinatorics/) | 2 |
 | [Counting](Topics/counting/) | 9 |
 | [Counting Sort](Topics/counting-sort/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
@@ -64,20 +64,21 @@
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 8 |
-| [Game Theory](Topics/game-theory/) | 4 |
+| [Game Theory](Topics/game-theory/) | 5 |
 | [Graph Theory](Topics/graph/) | 1 |
-| [Greedy](Topics/greedy/) | 16 |
+| [Greedy](Topics/greedy/) | 17 |
 | [Hash Table](Topics/hash-table/) | 25 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [Linked List](Topics/linked-list/) | 10 |
-| [Math](Topics/math/) | 19 |
+| [Math](Topics/math/) | 21 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
 | [Minimax](Topics/minimax-algorithm/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 4 |
 | [Nim Game](Topics/nim-game/) | 1 |
+| [Number Theory](Topics/number-theory/) | 1 |
 | [ordered-set](Topics/ordered-set/) | 0 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 8 |
@@ -87,7 +88,7 @@
 | [Sliding Window](Topics/sliding-window/) | 7 |
 | [Sorting](Topics/sorting/) | 17 |
 | [Stack](Topics/stack/) | 11 |
-| [String](Topics/string/) | 24 |
+| [String](Topics/string/) | 25 |
 | [Tree](Topics/tree/) | 2 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 11 |
