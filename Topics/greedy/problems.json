@@ -4,7 +4,7 @@
     "slug": "greedy",
     "name": "Greedy"
   },
-  "updatedAt": "2026-08-19T14:05:24.351Z",
+  "updatedAt": "2026-08-24T06:28:54.913Z",
   "problems": [
     {
       "frontendId": "55",
@@ -243,6 +243,26 @@
           "path": "1903-largest-odd-number-in-string/1903-largest-odd-number-in-string.py",
           "sha": "a832445dc0b043871b45ad07b893f71a53c4e0e2",
           "lastSyncedAt": "2026-08-18T08:41:02.393Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1927",
+      "title": "Sum Game",
+      "slug": "sum-game",
+      "problemName": "1927-sum-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-game/",
+      "folderPath": "1927-sum-game/",
+      "readmePath": "1927-sum-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1927-sum-game.py",
+          "path": "1927-sum-game/1927-sum-game.py",
+          "sha": "b730f041f76e9a6e8c64cf25528acf96fed16d71",
+          "lastSyncedAt": "2026-08-24T06:28:54.913Z"
         }
       ]
     },
