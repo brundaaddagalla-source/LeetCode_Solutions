@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-08-21T15:27:04.745Z",
+  "updatedAt": "2026-08-25T03:47:45.151Z",
   "problems": [
     {
       "frontendId": "14",
@@ -943,6 +943,26 @@
           "path": "3471-find-the-largest-almost-missing-integer/3471-find-the-largest-almost-missing-integer.py",
           "sha": "a13a0b7733866f5b6e2d0698c7e3b21971117e92",
           "lastSyncedAt": "2026-08-18T06:07:38.684Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3718",
+      "title": "Smallest Missing Multiple of K",
+      "slug": "smallest-missing-multiple-of-k",
+      "problemName": "3718-smallest-missing-multiple-of-k",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-missing-multiple-of-k/",
+      "folderPath": "3718-smallest-missing-multiple-of-k/",
+      "readmePath": "3718-smallest-missing-multiple-of-k/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3718-smallest-missing-multiple-of-k.py",
+          "path": "3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.py",
+          "sha": "14ea6b02632a54f9f2c98db5ec2370226ba95717",
+          "lastSyncedAt": "2026-08-25T03:47:45.151Z"
         }
       ]
     },
