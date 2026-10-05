@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-08-18T06:57:29.270Z",
+  "updatedAt": "2026-10-05T17:37:38.171Z",
   "problems": [
     {
       "frontendId": "299",
@@ -43,6 +43,26 @@
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
           "sha": "33ef9fe53593f1c91441a9b404e58d25a4932ab7",
           "lastSyncedAt": "2026-08-04T08:47:22.691Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "594",
+      "title": "Longest Harmonious Subsequence",
+      "slug": "longest-harmonious-subsequence",
+      "problemName": "0594-longest-harmonious-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-harmonious-subsequence/",
+      "folderPath": "0594-longest-harmonious-subsequence/",
+      "readmePath": "0594-longest-harmonious-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0594-longest-harmonious-subsequence.py",
+          "path": "0594-longest-harmonious-subsequence/0594-longest-harmonious-subsequence.py",
+          "sha": "9956b38bea5656eaddfd96712e554351686cc514",
+          "lastSyncedAt": "2026-10-05T17:37:38.171Z"
         }
       ]
     },
