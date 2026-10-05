@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 110 | 29 | 70 | 11 |
+| 111 | 30 | 70 | 11 |
 
 ## Activity
 
@@ -26,28 +26,28 @@
 | 2026-08-21 | 1 |
 | 2026-08-24 | 1 |
 | 2026-08-25 | 1 |
-| 2026-10-05 | 1 |
+| 2026-10-05 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 56 | 51% |
+| Array | 57 | 51% |
 | String | 33 | 30% |
-| Hash Table | 28 | 25% |
-| Sorting | 22 | 20% |
+| Hash Table | 29 | 26% |
+| Sorting | 23 | 21% |
 | Math | 20 | 18% |
 | Greedy | 19 | 17% |
-| Two Pointers | 16 | 15% |
+| Two Pointers | 16 | 14% |
 | Stack | 13 | 12% |
+| Counting | 12 | 11% |
 | Bit Manipulation | 11 | 10% |
-| Counting | 11 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 49 |
+| [Array](Topics/array/) | 50 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -56,7 +56,7 @@
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
-| [Counting](Topics/counting/) | 9 |
+| [Counting](Topics/counting/) | 10 |
 | [Counting Sort](Topics/counting-sort/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
@@ -67,7 +67,7 @@
 | [Game Theory](Topics/game-theory/) | 5 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 17 |
-| [Hash Table](Topics/hash-table/) | 26 |
+| [Hash Table](Topics/hash-table/) | 27 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
 | [Linked List](Topics/linked-list/) | 10 |
@@ -85,8 +85,8 @@
 | [Recursion](Topics/recursion/) | 2 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
-| [Sliding Window](Topics/sliding-window/) | 7 |
-| [Sorting](Topics/sorting/) | 17 |
+| [Sliding Window](Topics/sliding-window/) | 8 |
+| [Sorting](Topics/sorting/) | 18 |
 | [Stack](Topics/stack/) | 12 |
 | [String](Topics/string/) | 26 |
 | [Tree](Topics/tree/) | 2 |
