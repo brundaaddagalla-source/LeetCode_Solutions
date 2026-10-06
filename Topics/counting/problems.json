@@ -4,7 +4,7 @@
     "slug": "counting",
     "name": "Counting"
   },
-  "updatedAt": "2026-10-06T07:57:51.380Z",
+  "updatedAt": "2026-10-06T08:12:07.286Z",
   "problems": [
     {
       "frontendId": "299",
@@ -163,6 +163,26 @@
           "path": "0869-reordered-power-of-2/0869-reordered-power-of-2.py",
           "sha": "64d7ba705eb42ecc5ba8956c613cafecfc96ec72",
           "lastSyncedAt": "2026-10-06T07:57:51.380Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "884",
+      "title": "Uncommon Words from Two Sentences",
+      "slug": "uncommon-words-from-two-sentences",
+      "problemName": "0884-uncommon-words-from-two-sentences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/uncommon-words-from-two-sentences/",
+      "folderPath": "0884-uncommon-words-from-two-sentences/",
+      "readmePath": "0884-uncommon-words-from-two-sentences/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0884-uncommon-words-from-two-sentences.py",
+          "path": "0884-uncommon-words-from-two-sentences/0884-uncommon-words-from-two-sentences.py",
+          "sha": "128ea4ed72654683eefe61e2d6e5c4f323298a73",
+          "lastSyncedAt": "2026-10-06T08:12:07.286Z"
         }
       ]
     },
