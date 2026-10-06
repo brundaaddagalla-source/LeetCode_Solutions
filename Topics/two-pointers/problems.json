@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-08-18T13:27:08.480Z",
+  "updatedAt": "2026-10-06T08:27:13.852Z",
   "problems": [
     {
       "frontendId": "26",
@@ -43,6 +43,26 @@
           "path": "0061-rotate-list/0061-rotate-list.py",
           "sha": "804d13b5af8fbf4c237a7ab9f8c89a66f69342d8",
           "lastSyncedAt": "2026-06-19T12:49:39.803Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "75",
+      "title": "Sort Colors",
+      "slug": "sort-colors",
+      "problemName": "0075-sort-colors",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-colors/",
+      "folderPath": "0075-sort-colors/",
+      "readmePath": "0075-sort-colors/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0075-sort-colors.py",
+          "path": "0075-sort-colors/0075-sort-colors.py",
+          "sha": "b2eb624dd27bda17770d6a53d10504c2a26c8acd",
+          "lastSyncedAt": "2026-10-06T08:27:13.852Z"
         }
       ]
     },
