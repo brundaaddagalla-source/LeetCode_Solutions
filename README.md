@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 111 | 30 | 70 | 11 |
+| 112 | 30 | 71 | 11 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 9 days | 36 |
+| 2 days | 9 days | 37 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-04 | 5 |
 | 2026-08-05 | 1 |
 | 2026-08-08 | 1 |
 | 2026-08-11 | 2 |
@@ -27,36 +26,37 @@
 | 2026-08-24 | 1 |
 | 2026-08-25 | 1 |
 | 2026-10-05 | 2 |
+| 2026-10-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 57 | 51% |
-| String | 33 | 30% |
-| Hash Table | 29 | 26% |
-| Sorting | 23 | 21% |
+| Array | 58 | 52% |
+| String | 34 | 30% |
+| Hash Table | 30 | 27% |
+| Sorting | 24 | 21% |
 | Math | 20 | 18% |
 | Greedy | 19 | 17% |
 | Two Pointers | 16 | 14% |
+| Counting | 13 | 12% |
 | Stack | 13 | 12% |
-| Counting | 12 | 11% |
 | Bit Manipulation | 11 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 50 |
+| [Array](Topics/array/) | 51 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 12 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 5 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
-| [Bucket Sort](Topics/bucket-sort/) | 1 |
+| [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
-| [Counting](Topics/counting/) | 10 |
+| [Counting](Topics/counting/) | 11 |
 | [Counting Sort](Topics/counting-sort/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
@@ -67,9 +67,9 @@
 | [Game Theory](Topics/game-theory/) | 5 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 17 |
-| [Hash Table](Topics/hash-table/) | 27 |
+| [Hash Table](Topics/hash-table/) | 28 |
 | [Heap](Topics/heap/) | 0 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 4 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
 | [Linked List](Topics/linked-list/) | 10 |
 | [Math](Topics/math/) | 21 |
 | [Matrix](Topics/matrix/) | 2 |
@@ -86,11 +86,11 @@
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 8 |
-| [Sorting](Topics/sorting/) | 18 |
+| [Sorting](Topics/sorting/) | 19 |
 | [Stack](Topics/stack/) | 12 |
-| [String](Topics/string/) | 26 |
+| [String](Topics/string/) | 27 |
 | [Tree](Topics/tree/) | 2 |
-| [Trie](Topics/trie/) | 1 |
+| [Trie](Topics/trie/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 11 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->
