@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-06T05:24:10.607Z",
+  "updatedAt": "2026-10-06T05:38:52.088Z",
   "problems": [
     {
       "frontendId": "14",
@@ -163,6 +163,26 @@
           "path": "0678-valid-parenthesis-string/0678-valid-parenthesis-string.py",
           "sha": "f3c49238eaca09cd31b1bdbc4a6268e20ae82a83",
           "lastSyncedAt": "2026-10-04T15:59:39.779Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "692",
+      "title": "Top K Frequent Words",
+      "slug": "top-k-frequent-words",
+      "problemName": "0692-top-k-frequent-words",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-words/",
+      "folderPath": "0692-top-k-frequent-words/",
+      "readmePath": "0692-top-k-frequent-words/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0692-top-k-frequent-words.py",
+          "path": "0692-top-k-frequent-words/0692-top-k-frequent-words.py",
+          "sha": "0ad7eb72d78d6b9ba0367b5f1db80e0518a60b5b",
+          "lastSyncedAt": "2026-10-06T05:38:52.088Z"
         }
       ]
     },
