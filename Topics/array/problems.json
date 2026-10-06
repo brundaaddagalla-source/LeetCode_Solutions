@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T05:38:52.088Z",
+  "updatedAt": "2026-10-06T05:48:03.522Z",
   "problems": [
     {
       "frontendId": "14",
@@ -502,7 +502,7 @@
           "filename": "0692-top-k-frequent-words.py",
           "path": "0692-top-k-frequent-words/0692-top-k-frequent-words.py",
           "sha": "0ad7eb72d78d6b9ba0367b5f1db80e0518a60b5b",
-          "lastSyncedAt": "2026-10-06T05:38:52.088Z"
+          "lastSyncedAt": "2026-10-06T05:48:03.522Z"
         }
       ]
     },
