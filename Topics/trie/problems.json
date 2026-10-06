@@ -4,7 +4,7 @@
     "slug": "trie",
     "name": "Trie"
   },
-  "updatedAt": "2026-08-18T08:50:49.021Z",
+  "updatedAt": "2026-10-06T05:38:52.088Z",
   "problems": [
     {
       "frontendId": "14",
@@ -23,6 +23,26 @@
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.py",
           "sha": "2dc95338ab51f8db17012b969e5d58c9ae5151ff",
           "lastSyncedAt": "2026-08-18T08:50:49.021Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "692",
+      "title": "Top K Frequent Words",
+      "slug": "top-k-frequent-words",
+      "problemName": "0692-top-k-frequent-words",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-words/",
+      "folderPath": "0692-top-k-frequent-words/",
+      "readmePath": "0692-top-k-frequent-words/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0692-top-k-frequent-words.py",
+          "path": "0692-top-k-frequent-words/0692-top-k-frequent-words.py",
+          "sha": "0ad7eb72d78d6b9ba0367b5f1db80e0518a60b5b",
+          "lastSyncedAt": "2026-10-06T05:38:52.088Z"
         }
       ]
     }
