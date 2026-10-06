@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 113 | 30 | 72 | 11 |
+| 114 | 31 | 72 | 11 |
 
 ## Activity
 
@@ -26,28 +26,28 @@
 | 2026-08-24 | 1 |
 | 2026-08-25 | 1 |
 | 2026-10-05 | 2 |
-| 2026-10-06 | 2 |
+| 2026-10-06 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 59 | 52% |
-| String | 35 | 31% |
-| Hash Table | 31 | 27% |
+| Array | 60 | 53% |
+| String | 36 | 32% |
+| Hash Table | 32 | 28% |
 | Sorting | 24 | 21% |
 | Math | 20 | 18% |
 | Greedy | 19 | 17% |
 | Two Pointers | 16 | 14% |
-| Counting | 14 | 12% |
-| Stack | 13 | 12% |
+| Counting | 15 | 13% |
+| Stack | 13 | 11% |
 | Bit Manipulation | 11 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 52 |
+| [Array](Topics/array/) | 53 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
@@ -56,7 +56,7 @@
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
-| [Counting](Topics/counting/) | 12 |
+| [Counting](Topics/counting/) | 13 |
 | [Counting Sort](Topics/counting-sort/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
@@ -67,7 +67,7 @@
 | [Game Theory](Topics/game-theory/) | 5 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 17 |
-| [Hash Table](Topics/hash-table/) | 29 |
+| [Hash Table](Topics/hash-table/) | 30 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
 | [Linked List](Topics/linked-list/) | 10 |
@@ -88,7 +88,7 @@
 | [Sliding Window](Topics/sliding-window/) | 8 |
 | [Sorting](Topics/sorting/) | 19 |
 | [Stack](Topics/stack/) | 12 |
-| [String](Topics/string/) | 28 |
+| [String](Topics/string/) | 29 |
 | [Tree](Topics/tree/) | 2 |
 | [Trie](Topics/trie/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 11 |
