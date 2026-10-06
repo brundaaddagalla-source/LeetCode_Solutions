@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 116 | 32 | 73 | 11 |
+| 117 | 32 | 74 | 11 |
 
 ## Activity
 
@@ -26,20 +26,20 @@
 | 2026-08-24 | 1 |
 | 2026-08-25 | 1 |
 | 2026-10-05 | 2 |
-| 2026-10-06 | 5 |
+| 2026-10-06 | 6 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 60 | 52% |
+| Array | 61 | 52% |
 | String | 37 | 32% |
 | Hash Table | 34 | 29% |
-| Sorting | 25 | 22% |
+| Sorting | 26 | 22% |
 | Math | 21 | 18% |
 | Greedy | 19 | 16% |
 | Counting | 17 | 15% |
-| Two Pointers | 16 | 14% |
+| Two Pointers | 17 | 15% |
 | Stack | 13 | 11% |
 | Bit Manipulation | 11 | 9% |
 
@@ -47,13 +47,14 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 53 |
+| [Array](Topics/array/) | 54 |
 | [Backtracking](Topics/backtracking/) | 5 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 12 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 5 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
+| [Bubble Sort](Topics/bubble-sort/) | 1 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
 | [Counting](Topics/counting/) | 15 |
@@ -83,15 +84,16 @@
 | [ordered-set](Topics/ordered-set/) | 0 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 8 |
+| [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 8 |
-| [Sorting](Topics/sorting/) | 20 |
+| [Sorting](Topics/sorting/) | 21 |
 | [Stack](Topics/stack/) | 12 |
 | [String](Topics/string/) | 30 |
 | [Tree](Topics/tree/) | 2 |
 | [Trie](Topics/trie/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 11 |
+| [Two Pointers](Topics/two-pointers/) | 12 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->
