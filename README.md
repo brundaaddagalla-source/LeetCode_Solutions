@@ -3,7 +3,7 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 114 | 31 | 72 | 11 |
+| 115 | 31 | 73 | 11 |
 
 ## Activity
 
@@ -26,20 +26,20 @@
 | 2026-08-24 | 1 |
 | 2026-08-25 | 1 |
 | 2026-10-05 | 2 |
-| 2026-10-06 | 3 |
+| 2026-10-06 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 60 | 53% |
-| String | 36 | 32% |
-| Hash Table | 32 | 28% |
-| Sorting | 24 | 21% |
-| Math | 20 | 18% |
+| Array | 60 | 52% |
+| String | 36 | 31% |
+| Hash Table | 33 | 29% |
+| Sorting | 25 | 22% |
+| Math | 21 | 18% |
 | Greedy | 19 | 17% |
+| Counting | 16 | 14% |
 | Two Pointers | 16 | 14% |
-| Counting | 15 | 13% |
 | Stack | 13 | 11% |
 | Bit Manipulation | 11 | 10% |
 
@@ -56,7 +56,7 @@
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bucket Sort](Topics/bucket-sort/) | 2 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
-| [Counting](Topics/counting/) | 13 |
+| [Counting](Topics/counting/) | 14 |
 | [Counting Sort](Topics/counting-sort/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
@@ -64,14 +64,15 @@
 | [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Doubly-Linked List](Topics/doubly-linked-list/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 8 |
+| [Enumeration](Topics/enumeration/) | 1 |
 | [Game Theory](Topics/game-theory/) | 5 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 17 |
-| [Hash Table](Topics/hash-table/) | 30 |
+| [Hash Table](Topics/hash-table/) | 31 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
 | [Linked List](Topics/linked-list/) | 10 |
-| [Math](Topics/math/) | 21 |
+| [Math](Topics/math/) | 22 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 2 |
@@ -86,7 +87,7 @@
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 8 |
-| [Sorting](Topics/sorting/) | 19 |
+| [Sorting](Topics/sorting/) | 20 |
 | [Stack](Topics/stack/) | 12 |
 | [String](Topics/string/) | 29 |
 | [Tree](Topics/tree/) | 2 |
