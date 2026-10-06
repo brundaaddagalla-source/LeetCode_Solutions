@@ -52,7 +52,7 @@
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 12 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 4 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 5 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 2 |
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Combinatorics](Topics/combinatorics/) | 2 |
