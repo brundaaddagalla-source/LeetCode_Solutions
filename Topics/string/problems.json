@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-06T06:12:50.568Z",
+  "updatedAt": "2026-10-06T07:46:44.486Z",
   "problems": [
     {
       "frontendId": "14",
@@ -243,6 +243,26 @@
           "path": "0811-subdomain-visit-count/0811-subdomain-visit-count.py",
           "sha": "8a365fbf76c7b16cfe70290336dbd74d058c2719",
           "lastSyncedAt": "2026-10-06T06:12:50.568Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "819",
+      "title": "Most Common Word",
+      "slug": "most-common-word",
+      "problemName": "0819-most-common-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/most-common-word/",
+      "folderPath": "0819-most-common-word/",
+      "readmePath": "0819-most-common-word/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0819-most-common-word.py",
+          "path": "0819-most-common-word/0819-most-common-word.py",
+          "sha": "98fce6992f4eaa48735819cd94c589f6fb8132ff",
+          "lastSyncedAt": "2026-10-06T07:46:44.486Z"
         }
       ]
     },
