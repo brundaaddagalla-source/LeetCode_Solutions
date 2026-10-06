@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-06T07:46:44.486Z",
+  "updatedAt": "2026-10-06T08:12:07.286Z",
   "problems": [
     {
       "frontendId": "14",
@@ -283,6 +283,26 @@
           "path": "0856-score-of-parentheses/0856-score-of-parentheses.py",
           "sha": "f918260b70210e68bdd4505784a74e162a9956ef",
           "lastSyncedAt": "2026-10-05T06:10:03.811Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "884",
+      "title": "Uncommon Words from Two Sentences",
+      "slug": "uncommon-words-from-two-sentences",
+      "problemName": "0884-uncommon-words-from-two-sentences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/uncommon-words-from-two-sentences/",
+      "folderPath": "0884-uncommon-words-from-two-sentences/",
+      "readmePath": "0884-uncommon-words-from-two-sentences/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0884-uncommon-words-from-two-sentences.py",
+          "path": "0884-uncommon-words-from-two-sentences/0884-uncommon-words-from-two-sentences.py",
+          "sha": "128ea4ed72654683eefe61e2d6e5c4f323298a73",
+          "lastSyncedAt": "2026-10-06T08:12:07.286Z"
         }
       ]
     },
