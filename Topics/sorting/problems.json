@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-06T05:49:25.115Z",
+  "updatedAt": "2026-10-06T07:57:51.380Z",
   "problems": [
     {
       "frontendId": "148",
@@ -163,6 +163,26 @@
           "path": "0767-reorganize-string/0767-reorganize-string.py",
           "sha": "27bfebca5f205ec39700215754407fbba869cff5",
           "lastSyncedAt": "2026-07-30T05:34:40.657Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "869",
+      "title": "Reordered Power of 2",
+      "slug": "reordered-power-of-2",
+      "problemName": "0869-reordered-power-of-2",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reordered-power-of-2/",
+      "folderPath": "0869-reordered-power-of-2/",
+      "readmePath": "0869-reordered-power-of-2/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0869-reordered-power-of-2.py",
+          "path": "0869-reordered-power-of-2/0869-reordered-power-of-2.py",
+          "sha": "64d7ba705eb42ecc5ba8956c613cafecfc96ec72",
+          "lastSyncedAt": "2026-10-06T07:57:51.380Z"
         }
       ]
     },
