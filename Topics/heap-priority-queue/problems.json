@@ -4,7 +4,7 @@
     "slug": "heap-priority-queue",
     "name": "Heap (Priority Queue)"
   },
-  "updatedAt": "2026-10-06T05:48:03.522Z",
+  "updatedAt": "2026-10-06T05:49:25.115Z",
   "problems": [
     {
       "frontendId": "23",
@@ -82,7 +82,7 @@
           "filename": "0692-top-k-frequent-words.py",
           "path": "0692-top-k-frequent-words/0692-top-k-frequent-words.py",
           "sha": "0ad7eb72d78d6b9ba0367b5f1db80e0518a60b5b",
-          "lastSyncedAt": "2026-10-06T05:48:03.522Z"
+          "lastSyncedAt": "2026-10-06T05:49:25.115Z"
         }
       ]
     },
