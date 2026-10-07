@@ -4,7 +4,7 @@
     "slug": "breadth-first-search",
     "name": "Breadth-First Search"
   },
-  "updatedAt": "2026-08-05T13:06:23.334Z",
+  "updatedAt": "2026-10-07T14:30:57.709Z",
   "problems": [
     {
       "frontendId": "103",
@@ -23,6 +23,26 @@
           "path": "0103-binary-tree-zigzag-level-order-traversal/0103-binary-tree-zigzag-level-order-traversal.py",
           "sha": "e516433e8918f2ee9369de11e3ffa63b806f71fe",
           "lastSyncedAt": "2026-07-14T08:44:42.408Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "301",
+      "title": "Remove Invalid Parentheses",
+      "slug": "remove-invalid-parentheses",
+      "problemName": "0301-remove-invalid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-invalid-parentheses/",
+      "folderPath": "0301-remove-invalid-parentheses/",
+      "readmePath": "0301-remove-invalid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0301-remove-invalid-parentheses.py",
+          "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.py",
+          "sha": "0b3ad1b4b72581597350819f5509fe5e6676e0e2",
+          "lastSyncedAt": "2026-10-07T14:30:57.709Z"
         }
       ]
     },
