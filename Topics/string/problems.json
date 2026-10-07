@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-06T08:12:07.286Z",
+  "updatedAt": "2026-10-07T14:30:57.709Z",
   "problems": [
     {
       "frontendId": "14",
@@ -63,6 +63,26 @@
           "path": "0299-bulls-and-cows/0299-bulls-and-cows.py",
           "sha": "e3f149c2cad24dac907ebe99ded0067722d875af",
           "lastSyncedAt": "2026-08-04T08:38:51.193Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "301",
+      "title": "Remove Invalid Parentheses",
+      "slug": "remove-invalid-parentheses",
+      "problemName": "0301-remove-invalid-parentheses",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-invalid-parentheses/",
+      "folderPath": "0301-remove-invalid-parentheses/",
+      "readmePath": "0301-remove-invalid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0301-remove-invalid-parentheses.py",
+          "path": "0301-remove-invalid-parentheses/0301-remove-invalid-parentheses.py",
+          "sha": "0b3ad1b4b72581597350819f5509fe5e6676e0e2",
+          "lastSyncedAt": "2026-10-07T14:30:57.709Z"
         }
       ]
     },
