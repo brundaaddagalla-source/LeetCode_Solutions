@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-06T08:27:13.852Z",
+  "updatedAt": "2026-10-08T04:17:35.738Z",
   "problems": [
     {
       "frontendId": "14",
@@ -663,6 +663,26 @@
           "path": "0881-boats-to-save-people/0881-boats-to-save-people.py",
           "sha": "58388feee79b0dd7ea38505a04075155d12b99f8",
           "lastSyncedAt": "2026-07-28T04:51:43.897Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "914",
+      "title": "X of a Kind in a Deck of Cards",
+      "slug": "x-of-a-kind-in-a-deck-of-cards",
+      "problemName": "0914-x-of-a-kind-in-a-deck-of-cards",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/",
+      "folderPath": "0914-x-of-a-kind-in-a-deck-of-cards/",
+      "readmePath": "0914-x-of-a-kind-in-a-deck-of-cards/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0914-x-of-a-kind-in-a-deck-of-cards.py",
+          "path": "0914-x-of-a-kind-in-a-deck-of-cards/0914-x-of-a-kind-in-a-deck-of-cards.py",
+          "sha": "f7c688f9ce9bbf7172ba57a1ecbb4b9cbd3b009c",
+          "lastSyncedAt": "2026-10-08T04:17:35.738Z"
         }
       ]
     },
