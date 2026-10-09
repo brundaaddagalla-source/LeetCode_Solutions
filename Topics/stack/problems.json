@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "stack",
-    "name": "Stack"
+    "name": "Stack",
+    "tagId": "15"
   },
-  "updatedAt": "2026-10-06T05:24:10.607Z",
+  "updatedAt": "2026-10-09T06:24:57.260Z",
   "problems": [
     {
       "frontendId": "84",
@@ -223,6 +224,26 @@
           "path": "1021-remove-outermost-parentheses/1021-remove-outermost-parentheses.py",
           "sha": "76fc4af8ebccde3dde671a012f27008929e4e354",
           "lastSyncedAt": "2026-08-18T08:37:15.862Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1541",
+      "title": "Minimum Insertions to Balance a Parentheses String",
+      "slug": "minimum-insertions-to-balance-a-parentheses-string",
+      "problemName": "1541-minimum-insertions-to-balance-a-parentheses-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/",
+      "folderPath": "1541-minimum-insertions-to-balance-a-parentheses-string/",
+      "readmePath": "1541-minimum-insertions-to-balance-a-parentheses-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1541-minimum-insertions-to-balance-a-parentheses-string.py",
+          "path": "1541-minimum-insertions-to-balance-a-parentheses-string/1541-minimum-insertions-to-balance-a-parentheses-string.py",
+          "sha": "cb87363ce1cb70e01c1eeae18ef909b4d188aa95",
+          "lastSyncedAt": "2026-10-09T06:24:57.260Z"
         }
       ]
     },
