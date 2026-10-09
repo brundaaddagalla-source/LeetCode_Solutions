@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "array",
-    "name": "Array"
+    "name": "Array",
+    "tagId": "5"
   },
-  "updatedAt": "2026-10-08T04:17:35.738Z",
+  "updatedAt": "2026-10-09T12:49:42.203Z",
   "problems": [
     {
       "frontendId": "14",
@@ -683,6 +684,26 @@
           "path": "0914-x-of-a-kind-in-a-deck-of-cards/0914-x-of-a-kind-in-a-deck-of-cards.py",
           "sha": "f7c688f9ce9bbf7172ba57a1ecbb4b9cbd3b009c",
           "lastSyncedAt": "2026-10-08T04:17:35.738Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "923",
+      "title": "3Sum With Multiplicity",
+      "slug": "3sum-with-multiplicity",
+      "problemName": "0923-3sum-with-multiplicity",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum-with-multiplicity/",
+      "folderPath": "0923-3sum-with-multiplicity/",
+      "readmePath": "0923-3sum-with-multiplicity/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0923-3sum-with-multiplicity.py",
+          "path": "0923-3sum-with-multiplicity/0923-3sum-with-multiplicity.py",
+          "sha": "789610662fc5d4e289878ec0fb78173ec5b62da4",
+          "lastSyncedAt": "2026-10-09T12:49:42.203Z"
         }
       ]
     },
