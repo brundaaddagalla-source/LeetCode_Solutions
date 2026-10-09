@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "sorting",
-    "name": "Sorting"
+    "name": "Sorting",
+    "tagId": "61049"
   },
-  "updatedAt": "2026-10-06T08:27:13.852Z",
+  "updatedAt": "2026-10-09T12:49:42.203Z",
   "problems": [
     {
       "frontendId": "75",
@@ -223,6 +224,26 @@
           "path": "0881-boats-to-save-people/0881-boats-to-save-people.py",
           "sha": "58388feee79b0dd7ea38505a04075155d12b99f8",
           "lastSyncedAt": "2026-07-28T04:51:43.897Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "923",
+      "title": "3Sum With Multiplicity",
+      "slug": "3sum-with-multiplicity",
+      "problemName": "0923-3sum-with-multiplicity",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum-with-multiplicity/",
+      "folderPath": "0923-3sum-with-multiplicity/",
+      "readmePath": "0923-3sum-with-multiplicity/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0923-3sum-with-multiplicity.py",
+          "path": "0923-3sum-with-multiplicity/0923-3sum-with-multiplicity.py",
+          "sha": "789610662fc5d4e289878ec0fb78173ec5b62da4",
+          "lastSyncedAt": "2026-10-09T12:49:42.203Z"
         }
       ]
     },
