@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-09T12:56:10.835Z",
+  "updatedAt": "2026-10-13T14:49:57.761Z",
   "problems": [
     {
       "frontendId": "75",
@@ -424,6 +424,26 @@
           "path": "3536-maximum-product-of-two-digits/3536-maximum-product-of-two-digits.py",
           "sha": "9dbeeb61808d62cb0a0db200160ffdb0fef19265",
           "lastSyncedAt": "2026-07-25T04:07:36.770Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3727",
+      "title": "Maximum Alternating Sum of Squares",
+      "slug": "maximum-alternating-sum-of-squares",
+      "problemName": "3727-maximum-alternating-sum-of-squares",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/",
+      "folderPath": "3727-maximum-alternating-sum-of-squares/",
+      "readmePath": "3727-maximum-alternating-sum-of-squares/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3727-maximum-alternating-sum-of-squares.py",
+          "path": "3727-maximum-alternating-sum-of-squares/3727-maximum-alternating-sum-of-squares.py",
+          "sha": "9bedad44d3510302048ef5625881deabe80112ae",
+          "lastSyncedAt": "2026-10-13T14:49:57.761Z"
         }
       ]
     },
