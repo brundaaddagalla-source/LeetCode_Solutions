@@ -3,17 +3,16 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 120 | 32 | 76 | 12 |
+| 121 | 32 | 77 | 12 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 9 days | 39 |
+| 1 days | 9 days | 40 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-11 | 2 |
 | 2026-08-12 | 2 |
 | 2026-08-14 | 1 |
 | 2026-08-17 | 2 |
@@ -27,17 +26,18 @@
 | 2026-10-06 | 6 |
 | 2026-10-07 | 1 |
 | 2026-10-09 | 2 |
+| 2026-10-13 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 62 | 52% |
-| String | 39 | 33% |
+| Array | 63 | 52% |
+| String | 39 | 32% |
 | Hash Table | 35 | 29% |
-| Sorting | 27 | 23% |
-| Math | 21 | 18% |
-| Greedy | 20 | 17% |
+| Sorting | 28 | 23% |
+| Greedy | 21 | 17% |
+| Math | 21 | 17% |
 | Counting | 18 | 15% |
 | Two Pointers | 18 | 15% |
 | Stack | 14 | 12% |
@@ -47,9 +47,9 @@
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 56 |
+| [Array](Topics/array/) | 58 |
 | [Backtracking](Topics/backtracking/) | 6 |
-| [Binary Search](Topics/binary-search/) | 3 |
+| [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 2 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 12 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 6 |
@@ -69,7 +69,7 @@
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Game Theory](Topics/game-theory/) | 5 |
 | [Graph Theory](Topics/graph/) | 1 |
-| [Greedy](Topics/greedy/) | 18 |
+| [Greedy](Topics/greedy/) | 19 |
 | [Hash Table](Topics/hash-table/) | 34 |
 | [Heap](Topics/heap/) | 0 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
@@ -90,11 +90,11 @@
 | [Segment Tree](Topics/segment-tree/) | 1 |
 | [Simulation](Topics/simulation/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 8 |
-| [Sorting](Topics/sorting/) | 22 |
+| [Sorting](Topics/sorting/) | 23 |
 | [Stack](Topics/stack/) | 13 |
 | [String](Topics/string/) | 32 |
 | [Tree](Topics/tree/) | 2 |
 | [Trie](Topics/trie/) | 2 |
-| [Two Pointers](Topics/two-pointers/) | 13 |
+| [Two Pointers](Topics/two-pointers/) | 14 |
 | [Zero-Sum Game](Topics/zero-sum-game/) | 2 |
 <!---LeetHub Summary End-->
